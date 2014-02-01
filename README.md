@@ -18,7 +18,7 @@
 
 #Why do I create it?
 As we all know, technological development are increasingly rapid. We always forget something important. So, 
-we need *Cheat-Sheets* to help us.
+we need *Cheat-Sheets* to help us.            
 As you see, mabye some cheat-sheets are NOT satisfied to us.So if you have better one, PLS and PLS provide you resource to us. it's helpful to us.
 
 #Which cheat sheet do we need?
