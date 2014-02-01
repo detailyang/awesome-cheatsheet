@@ -1,20 +1,25 @@
 #Which cheet sheet did we have?
-1.c       
-2.c#          
-3.cpp           
-4.css          
-5.desgin pattern         
-6.git          
-7.html           
-8.java           
-9.javasciprt,backbone, angular, ember, jquery          
-10.linux            
-11.markdown            
-12.obj-c            
-13.python, django            
-14.regular expressions            
-15.ruby, ruby on rails           
-16.sql            
+* c       
+* c#          
+* cpp           
+* css          
+* desgin pattern         
+* git          
+* html           
+* java           
+* javasciprt 
+    * backbone 
+    * angular 
+    * ember 
+    * jquery          
+* linux            
+* markdown            
+* obj-c            
+* python
+    * django            
+* regular expressions            
+* ruby, ruby on rails           
+* sql            
 
 #Why do I create it?
 As we all know, technological development are increasingly rapid. We always forget something important. So, 
@@ -26,11 +31,11 @@ Everything is okay and it just let us to remember something important.So it mean
 
 #Where's from the cheat sheets?
 These cheat sheets are from the internet.And We should thanks them as follow:        
-1.[http://www.cheat-sheets.org/](http://www.cheat-sheets.org/)     
-2.[http://www.addedbytes.com/cheat-sheets/](http://www.addedbytes.com/cheat-sheets/)    
-3.[http://www.dzone.com/links/index.html](http://www.dzone.com/links/index.html)          
-4.[http://www.cheatography.com/](http://www.cheatography.com/)     
-5.[http://isocpp.org/](http://isocpp.org/)
+* [http://www.cheat-sheets.org/](http://www.cheat-sheets.org/)     
+* [http://www.addedbytes.com/cheat-sheets/](http://www.addedbytes.com/cheat-sheets/)    
+* [http://www.dzone.com/links/index.html](http://www.dzone.com/links/index.html)          
+* [http://www.cheatography.com/](http://www.cheatography.com/)     
+* [http://isocpp.org/](http://isocpp.org/)
 
 #Finally
 FWIW, It's just for fun and to make us develop more easily:)
