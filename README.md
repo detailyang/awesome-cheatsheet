@@ -1,20 +1,20 @@
 #Which cheet sheet did we have?
-1.c
-2.c#
-3.cpp
-4.css
-5.desgin pattern
-6.git
-7.html
-8.java
-9.javasciprt,backbone, angular, ember, jquery
-10.linux
-11.markdown
-12.obj-c
-13.python, django
-14.regular expressions
-15.ruby, ruby on rails
-16.sql
+1.c       
+2.c#          
+3.cpp           
+4.css          
+5.desgin pattern         
+6.git          
+7.html           
+8.java           
+9.javasciprt,backbone, angular, ember, jquery          
+10.linux            
+11.markdown            
+12.obj-c            
+13.python, django            
+14.regular expressions            
+15.ruby, ruby on rails           
+16.sql            
 
 #Why do I create it?
 As we all know, technological development are increasingly rapid. We always forget something important. So, 
