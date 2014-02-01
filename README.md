@@ -1,11 +1,11 @@
 #Which cheet sheet do we have?
 * awk
-    * [catonmat](http://www.catonmat.net/blog/awk-nawk-and-gawk-cheat-sheet/) from catonmat
+    * [awk](http://www.catonmat.net/blog/awk-nawk-and-gawk-cheat-sheet/) from catonmat
 * apache
     * [apache](http://refcardz.dzone.com/refcardz/essential-apache-http-server) from dzone.com
 * c       
 * c#          
-    * [summary](http://www.digilife.be/quickreferences/QRC/Core%20CSharp%20and%20.NET%20Quick%20Reference.pdf)
+    * [summary](http://www.digilife.be/quickreferences/QRC/Core%20CSharp%20and%20.NET%20Quick%20Reference.pdf) from digilife.be
 * cpp
     * [c11](http://isocpp.org/blog/2012/12/c11-a-cheat-sheet-alex-sinyakov) from isocpp.org    
 	* [stl](http://www.plcdev.com/statement_list_stl_cheat_sheets)  from plcdev.com      
