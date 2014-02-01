@@ -1,6 +1,11 @@
 #Which cheet sheet do we have?
+* awk
+    * [catonmat](http://www.catonmat.net/blog/awk-nawk-and-gawk-cheat-sheet/) from catonmat
+* apache
+    * [apache](http://refcardz.dzone.com/refcardz/essential-apache-http-server) from dzone.com
 * c       
 * c#          
+    * [summary](http://www.digilife.be/quickreferences/QRC/Core%20CSharp%20and%20.NET%20Quick%20Reference.pdf)
 * cpp
     * [c11](http://isocpp.org/blog/2012/12/c11-a-cheat-sheet-alex-sinyakov) from isocpp.org    
 	* [stl](http://www.plcdev.com/statement_list_stl_cheat_sheets)  from plcdev.com      
@@ -16,6 +21,7 @@
 	* [core java](http://refcardz.dzone.com/refcardz/core-java) from dzone.com     
 * javasciprt
 *   * [javascript](http://www.addedbytes.com/cheat-sheets/javascript-cheat-sheet/) from addedbytes
+    * [grunt node bower](http://jessewarden.com/2013/09/node-bower-grunt-n00b-cheat-sheet.html) from jessewarden.com
     * backbone
         * [backbone](http://www.igloolab.com/downloads/backbone-cheatsheet.pdf) from igloolab.com
         * angular
@@ -33,7 +39,7 @@
 * python
 	* [syntax](http://www.addedbytes.com/cheat-sheets/python-cheat-sheet/) from addedbytes
     * django
-    * [django 1.5)]http://www.mercurytide.co.uk/media/resources/django-cheat-sheet.pdf] from mercurytide.co.uk
+    * [django 1.5)](http://www.mercurytide.co.uk/media/resources/django-cheat-sheet.pdf) from mercurytide.co.uk
 * regular expressions     
 	* [reg](http://www.addedbytes.com/cheat-sheets/regular-expressions-cheat-sheet/) from addedbytes.com
 	* [reg](http://refcardz.dzone.com/refcardz/regular-expressions) from dzone.com
@@ -72,6 +78,8 @@ These cheat sheets are from the internet.And We should thanks them as follow:
 * [http://www.sql-tutorial.net](http://www.sql-tutorial.net/)
 * [http://oscarotero.com/](http://oscarotero.com/)
 * [http://webs.uvigo.es/](http://webs.uvigo.es/)
+* [http://www.digilife.be](http://www.digilife.be)
+* [http://jessewarden.com](http://jessewarden.com)
 
 #Finally
 FWIW, It's just for fun and to make us develop more easily:]
