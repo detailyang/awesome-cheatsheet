@@ -18,7 +18,8 @@
 * python
     * django            
 * regular expressions            
-* ruby, ruby on rails           
+* ruby
+   * ruby on rails           
 * sql            
 
 #Why do I create it?
