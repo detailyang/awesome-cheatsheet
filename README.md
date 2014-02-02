@@ -1,4 +1,3 @@
-#Which cheet sheet do we have?
 ###Index
 * [Ada](#ada)
 * [Agda](#agda)
