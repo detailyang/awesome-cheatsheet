@@ -40,6 +40,7 @@
     * [Dojo](#dojo)
     * [jQuery](#jquery)
     * [Node.js](#nodejs)
+    * [underscore.js](#underscore)
 * [LaTeX](#latex)
 * [Linux](#linux)
 * [Lisp](#lisp)
@@ -221,6 +222,10 @@
 
 ####jquery 
 * [jquery](http://oscarotero.com/jquery/)
+
+####underscore
+
+* [underscore-cheat-sheet](http://f.cl.ly/items/093o0l2Y3u130y0W0c0x/underscore-cheat-sheet.pdf)
 
 ###linux   
 * [linux-command-line-cheat-sheet](http://www.addedbytes.com/cheat-sheets/linux)
