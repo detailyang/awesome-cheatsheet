@@ -117,6 +117,9 @@
 * [intel](http://www.jegerlehner.ch/intel/)
 
 
+###bash
+* [bash cheat sheet](http://cli.learncodethehardway.org/bash_cheat_sheet.pdf)
+
 ###c 
 * [c](http://claymore.engineer.gvsu.edu/~steriana/226/C.CheatSheet.pdf)
 
