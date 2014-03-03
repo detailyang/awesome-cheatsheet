@@ -288,6 +288,7 @@
 
 ###php
 * [php-cheat-sheet](https://www.addedbytes.com/cheat-sheets/php-cheat-sheet/)
+* [php-54-scalable](http://refcardz.dzone.com/refcardz/php-54-scalable)
 
 ###postgresql 
 * [postgresql](http://refcardz.dzone.com/refcardz/essential-postgresql)
