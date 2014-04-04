@@ -264,6 +264,7 @@
 
 ###mysql
 * [mysql-cheat-sheet](http://www.addedbytes.com/cheat-sheets/mysql-cheat-sheet/)
+* [sql-join-cheat-sheet](http://coolshell.cn/articles/3463.html)
 
 ###net
 * [coredotnet](http://refcardz.dzone.com/refcardz/coredotnet)
