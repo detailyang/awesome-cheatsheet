@@ -72,6 +72,7 @@
 * [Python](#python)
     * [Django](#django)
     * [Flask](#flask)
+    * [web2py](#web2py)
 * [R](#r)
 * [Racket](#racket)
 * [REBOL](#rebol)
@@ -304,6 +305,9 @@
 
 ####django
 * [django 1.5)](http://www.mercurytide.co.uk/media/resources/django-cheat-sheet.pdf)
+* 
+####web2py
+* [web2py](https://dl.dropboxusercontent.com/u/18065445/web2py/web2py_cheatsheet.pdf)
 
 ###regular expressions     
 * [regular-expressions-cheat-sheet](http://www.addedbytes.com/cheat-sheets/regular-expressions-cheat-sheet/)
