@@ -204,6 +204,7 @@
 ###ios
 * [the-ios-7-design-cheat-sheet](http://ivomynttinen.com/blog/the-ios-7-design-cheat-sheet/)
 * [ios-developer-cheat-sheets](http://maniacdev.com/2011/01/ios-developer-cheat-sheets)
+* [ios-cheat-sheet](https://github.com/Avocarrot/ios-cheatsheet)
 
 ###java     
 * [core java](http://refcardz.dzone.com/refcardz/core-java)
