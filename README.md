@@ -82,6 +82,7 @@
     * [Ruby on Rails](#ror)
 * [Rust](#rust)
 * [Sage](#sage)
+* [Swift](#swift)
 * [Scala](#scala)
     * [Lift](#lift)
     * [Play Scala](#play-scala)
@@ -353,6 +354,9 @@
 
 ###silverlight
 * [silverlight2](http://refcardz.dzone.com/refcardz/silverlight2)
+
+###swift
+* [swift](https://github.com/grant/swift-cheat-sheet)
 
 ###sed 
 * [sed-stream-editor-cheat-sheet](http://www.catonmat.net/blog/sed-stream-editor-cheat-sheet/) 
