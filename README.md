@@ -308,7 +308,7 @@
 
 ####django
 * [django 1.5)](http://www.mercurytide.co.uk/media/resources/django-cheat-sheet.pdf)
-* 
+ 
 ####web2py
 * [web2py](https://dl.dropboxusercontent.com/u/18065445/web2py/web2py_cheatsheet.pdf)
 
