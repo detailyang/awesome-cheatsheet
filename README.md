@@ -23,6 +23,7 @@
 * [DTrace](#dtrace)
 * [Emacs](#emacs)
 * [Erlang](#erlang)
+* [Emoji](#emoji)
 * [F#](#f-sharp)
 * [Flex](#flex)
 * [Fortran](#fortran)
@@ -172,6 +173,9 @@
 
 ###erlang
 * [Erlang](http://www.cheat-sheets.org/saved-copy/Erlang.CheatSheet(1.0).pdf)
+
+###emoji
+* [Emoji](https://github.com/detailyang/cheat-sheets/edit/master/README.md)
 
 ###f-sharp
 * [essential-f](http://refcardz.dzone.com/refcardz/essential-f)
