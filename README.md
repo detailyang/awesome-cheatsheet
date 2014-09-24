@@ -198,7 +198,6 @@
 ###git
 * [Git Cheat Sheet](https://github.com/ArslanBilal/Git-Cheat-Sheet)
 * [getting-started-git](http://refcardz.dzone.com/refcardz/getting-started-git)
-* [fsharp-cheat-sheet](http://www.samskivert.com/code/fsharp/fsharp-cheat-sheet.pdf)
 * [git_cheat_sheet](http://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf)
 * [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)
 ###hadoop
