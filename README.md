@@ -163,6 +163,7 @@
 
 ###d
 * [dart-cheat-sheet](http://dartlangfr.net/dart-cheat-sheet/)
+
 ###db2
 * [dm-0406dang](https://www.ibm.com/developerworks/data/library/techarticle/dm-0406dang/)
 
@@ -171,6 +172,7 @@
 
 ###dtrace
 * [dtrace_cheatsheet](https://blogs.oracle.com/brendan/entry/dtrace_cheatsheet)
+
 ###desgin pattern   
 * [desgin pattern](http://refcardz.dzone.com/refcardz/design-patterns)
 
@@ -200,6 +202,7 @@
 * [getting-started-git](http://refcardz.dzone.com/refcardz/getting-started-git)
 * [git_cheat_sheet](http://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf)
 * [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)
+
 ###hadoop
 * [getting-started-apache-hadoop](http://refcardz.dzone.com/refcardz/getting-started-apache-hadoop)
 
@@ -219,7 +222,8 @@
 
 ###java     
 * [core java](http://refcardz.dzone.com/refcardz/core-java)
-####
+
+####Apache Wicket
 * [getting-started-apache-wicket](http://refcardz.dzone.com/refcardz/getting-started-apache-wicket)
 
 ###javasciprt
@@ -310,6 +314,7 @@
 
 ###prolog
 * [prolog](http://www.cheatography.com/tomma156/cheat-sheets/prolog-cheatsheet/)
+
 ###python
 * [python-cheat-sheet](http://www.addedbytes.com/cheat-sheets/python-cheat-sheet/)
 * [python feature](https://github.com/PythonCharmers/python-future)
