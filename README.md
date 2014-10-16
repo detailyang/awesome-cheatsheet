@@ -22,7 +22,6 @@
 * [DB2](#db2)
 * [Delphi / Pascal](#delphi)
 * [DTrace](#dtrace)
-* [Docker]($docker)
 * [Emacs](#emacs)
 * [Erlang](#erlang)
 * [Emoji](#emoji)
@@ -162,11 +161,8 @@
 ### css  
 * [css3-cheat-sheet](http://media.smashingmagazine.com/wp-content/uploads/images/css3-cheat-sheet/css3-cheat-sheet.pdf)
 
-###dart
+###d
 * [dart-cheat-sheet](http://dartlangfr.net/dart-cheat-sheet/)
-
-###docker
-* [docker](https://github.com/wsargent/docker-cheat-sheet)
 
 ###db2
 * [dm-0406dang](https://www.ibm.com/developerworks/data/library/techarticle/dm-0406dang/)
