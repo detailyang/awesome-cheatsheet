@@ -291,6 +291,7 @@
 * [coredotnet](http://refcardz.dzone.com/refcardz/coredotnet)
 
 ###objective-c 
+* [objective-c in depth](https://github.com/iwasrobbed/Objective-C-CheatSheet)
 * [objective-c-iphone-and-ipad](http://refcardz.dzone.com/refcardz/objective-c-iphone-and-ipad) 
 
 ###ocaml
@@ -376,7 +377,9 @@
 * [silverlight2](http://refcardz.dzone.com/refcardz/silverlight2)
 
 ###swift
+* [swift cheatsheet](https://github.com/iwasrobbed/Swift-CheatSheet)
 * [swift](https://github.com/grant/swift-cheat-sheet)
+* [swift design patterns](https://github.com/ochococo/Design-Patterns-In-Swift)
 
 ###sed 
 * [sed-stream-editor-cheat-sheet](http://www.catonmat.net/blog/sed-stream-editor-cheat-sheet/) 
