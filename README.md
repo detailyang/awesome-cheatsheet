@@ -378,7 +378,6 @@
 
 ###swift
 * [swift cheatsheet](https://github.com/iwasrobbed/Swift-CheatSheet)
-* [swift](https://github.com/grant/swift-cheat-sheet)
 * [swift design patterns](https://github.com/ochococo/Design-Patterns-In-Swift)
 
 ###sed 
