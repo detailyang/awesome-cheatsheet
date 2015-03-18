@@ -18,6 +18,7 @@
 * [COBOL](#cobol)
 * [CoffeeScript](#coffeescript)
 * [ColdFusion](#coldfusion)
+* [devops](#devops)
 * [Dart](#dart)
 * [DB2](#db2)
 * [Delphi / Pascal](#delphi)
@@ -163,6 +164,9 @@
 
 ### css  
 * [css3-cheat-sheet](http://media.smashingmagazine.com/wp-content/uploads/images/css3-cheat-sheet/css3-cheat-sheet.pdf)
+
+###devops
+* [saltstack](https://github.com/saltstack/salt/wiki/Cheat-Sheet)
 
 ###dart
 * [dart-cheat-sheet](http://dartlangfr.net/dart-cheat-sheet/)
