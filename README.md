@@ -212,7 +212,7 @@
 * [getting-started-git](http://refcardz.dzone.com/refcardz/getting-started-git)
 * [git_cheat_sheet](http://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf)
 * [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)
-
+* [git-style-guide](https://github.com/agis-/git-style-guide)
 ###hadoop
 * [getting-started-apache-hadoop](http://refcardz.dzone.com/refcardz/getting-started-apache-hadoop)
 
