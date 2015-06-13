@@ -95,6 +95,7 @@
 * [Scheme](#scheme)
 * [Scilab](#scilab)
 * [Scratch](#scratch)
+* [salt](#salt)
 * [Sed](#sed)
 * [Silverlight](#silverlight)
 * [Smalltalk](#smalltalk)
@@ -393,6 +394,7 @@
 ###sed 
 * [sed-stream-editor-cheat-sheet](http://www.catonmat.net/blog/sed-stream-editor-cheat-sheet/) 
 * [SedChart](http://www.grymoire.com/unix/SedChart.pdf)
+* [salt](https://github.com/harkx/saltstack-cheatsheet)
 
 ###tcl
 * [wiki](http://wiki.tcl.tk/10710)
