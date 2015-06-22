@@ -197,7 +197,7 @@
 * [Emoji](https://github.com/detailyang/cheat-sheets/edit/master/README.md)
 
 ###f-sharp
-* [essential-f](http://refcardz.dzone.com/refcardz/essential-f)
+* [fsharp-cheat-sheet](http://dungpa.github.io/fsharp-cheatsheet)
 
 ###flex
 * [flex](http://www.sketchingwithcss.com/samplechapter/cheatsheet.html)
