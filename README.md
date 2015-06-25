@@ -266,6 +266,7 @@
 
 ####jquery 
 * [jquery](http://oscarotero.com/jquery/)
+* [jquery](http://lab.abhinayrathore.com/jquery-cheatsheet/)
 
 ####underscore
 
