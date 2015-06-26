@@ -105,6 +105,7 @@
 * [TypeScript](#typescript)
 * [Unix](#unix)
 * [Vim](#vim)
+* [WAI-ARIA](#wai-aria)
 
 
 ###acm
@@ -265,6 +266,7 @@
 
 ####jquery 
 * [jquery](http://oscarotero.com/jquery/)
+* [jquery](http://lab.abhinayrathore.com/jquery-cheatsheet/)
 
 ####underscore
 
@@ -411,4 +413,5 @@
 ###vim
 * [a_vi_vim_graphical_cheat_sheet_tutorial](http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html)
 
-
+###wai-aria
+* [wai-aria](http://lab.abhinayrathore.com/aria-cheatsheet/)
