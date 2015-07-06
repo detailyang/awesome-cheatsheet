@@ -52,6 +52,7 @@
 * [Linux](#linux)
 * [Lisp](#lisp)
 * [Lua](#lua)
+* [math](#math)
 * [Mathematica](#mathematica)
 * [MATLAB](#matlab)
 * [Maven](#maven)
@@ -283,6 +284,9 @@
 
 ###lua
 * [luarefv51single](http://lua-users.org/files/wiki_insecure/users/thomasl/luarefv51single.pdf)
+
+###
+# [match](https://github.com/Jam3/math-as-code)
 
 ###markdown   
 * [syntax](http://daringfireball.net/projects/markdown/syntax)
