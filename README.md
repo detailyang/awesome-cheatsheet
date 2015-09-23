@@ -246,8 +246,9 @@
 ###javasciprt
 * [javascript-cheat-sheet](http://www.addedbytes.com/cheat-sheets/javascript-cheat-sheet/)
 * [grunt node bower](http://jessewarden.com/2013/09/node-bower-grunt-n00b-cheat-sheet.html)
+* [gulp](https://github.com/osscafe/gulp-cheatsheet)
 
-##node
+####node
 * [express](https://github.com/azat-co/cheatsheets/blob/master/express4/index.md)
 
 ####d3
