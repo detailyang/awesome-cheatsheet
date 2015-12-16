@@ -153,20 +153,20 @@
 * [c11-a-cheat-sheet-alex-sinyakov](http://isocpp.org/blog/2012/12/c11-a-cheat-sheet-alex-sinyakov)  
 * [statement_list_stl_cheat_sheets](http://www.plcdev.com/statement_list_stl_cheat_sheets)
 
-#clojure
+###clojure
 * [clojure](clojure.org/cheatsheet)
 
-#cobol
+###cobol
 * [cobol-reference-and-examples](http://www.quicklycode.com/cheatsheets/cobol-reference-and-examples)
 
-#coffeescript
+###coffeescript
 * [coffeescript](http://www.cheatography.com/apk/cheat-sheets/coffeescript-language/)
 * [coffeescript_cheatsheet](https://github.com/icebob/coffeescript_cheatsheet/)
 
 ###coldfusion
 * [getting-started-coldfusion-9](http://refcardz.dzone.com/refcardz/getting-started-coldfusion-9)
 
-### css  
+###css  
 * [css3-cheat-sheet](http://media.smashingmagazine.com/wp-content/uploads/images/css3-cheat-sheet/css3-cheat-sheet.pdf)
 
 ###devops
@@ -220,6 +220,7 @@
 * [git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet)
 * [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)
 * [git-style-guide](https://github.com/agis-/git-style-guide)
+* 
 ###hadoop
 * [getting-started-apache-hadoop](http://refcardz.dzone.com/refcardz/getting-started-apache-hadoop)
 
@@ -240,7 +241,7 @@
 ###java     
 * [core java](http://refcardz.dzone.com/refcardz/core-java)
 
-####Apache Wicket
+###Apache Wicket
 * [getting-started-apache-wicket](http://refcardz.dzone.com/refcardz/getting-started-apache-wicket)
 
 ###javasciprt
@@ -248,32 +249,32 @@
 * [grunt node bower](http://jessewarden.com/2013/09/node-bower-grunt-n00b-cheat-sheet.html)
 * [gulp](https://github.com/osscafe/gulp-cheatsheet)
 
-####node
+###node
 * [express](https://github.com/azat-co/cheatsheets/blob/master/express4/index.md)
 
-####d3
+###d3
 * [d3-cheat-sheet](http://www.jeromecukier.net/wp-content/uploads/2012/10/d3-cheat-sheet.pdf)
 
-####dojo
+###dojo
 * [dojo-1-8](http://www.cheatography.com/karim/cheat-sheets/dojo-1-8/)
 
-####backbone
+###backbone
 * [backbone-cheatsheet](http://www.igloolab.com/downloads/backbone-cheatsheet.pdf)
 
-####angular
+###angular
 * [angularjs](www.cheatography.com/proloser/cheat-sheets/angularjs/)
         
-####ember
+###ember
 * [ember-js](www.cheatography.com/mwore/cheat-sheets/ember-js/)
  
-####nodejs
+###nodejs
 * [nodejs](http://overapi.com/nodejs/)
 
-####jquery 
+###jquery 
 * [jquery](http://oscarotero.com/jquery/)
 * [jquery](http://lab.abhinayrathore.com/jquery-cheatsheet/)
 
-####underscore
+###underscore
 
 * [underscore-cheat-sheet](http://f.cl.ly/items/093o0l2Y3u130y0W0c0x/underscore-cheat-sheet.pdf)
 
@@ -289,8 +290,8 @@
 ###lua
 * [luarefv51single](http://lua-users.org/files/wiki_insecure/users/thomasl/luarefv51single.pdf)
 
-###
-# [match](https://github.com/Jam3/math-as-code)
+###math
+* [math as code](https://github.com/Jam3/math-as-code)
 
 ###markdown   
 * [syntax](http://daringfireball.net/projects/markdown/syntax)
@@ -345,13 +346,13 @@
 * [python-cheat-sheet](http://www.addedbytes.com/cheat-sheets/python-cheat-sheet/)
 * [python feature](https://github.com/PythonCharmers/python-future)
 
-####flask
+###flask
 * [flask](https://docs.google.com/file/d/1pnwfq8v5Ph4Xn8ttv9P_TLnrRbT9-S_v-KdZiEcx64vlGYkC0SoMfZOs0NYN/edit?usp=drive_web)
 
-####django
+###django
 * [django 1.5)](http://www.mercurytide.co.uk/media/resources/django-cheat-sheet.pdf)
  
-####web2py
+###web2py
 * [web2py](https://dl.dropboxusercontent.com/u/18065445/web2py/web2py_cheatsheet.pdf)
 
 ###regular expressions     
@@ -373,10 +374,10 @@
 ###ruby
 * [essential-ruby](http://refcardz.dzone.com/refcardz/essential-ruby) 
  
-####rspec
+###rspec
 * [rspec](https://gist.github.com/dnagir/663876)
 
-####ror
+###ror
 * [ror](http://www.addedbytes.com/cheat-sheets/ruby-on-rails-cheat-sheet/)
 
 ###rust
