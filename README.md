@@ -350,7 +350,8 @@
 * [flask](https://docs.google.com/file/d/1pnwfq8v5Ph4Xn8ttv9P_TLnrRbT9-S_v-KdZiEcx64vlGYkC0SoMfZOs0NYN/edit?usp=drive_web)
 
 ###django
-* [django 1.5)](http://www.mercurytide.co.uk/media/resources/django-cheat-sheet.pdf)
+* [django 1.5](http://www.mercurytide.co.uk/media/resources/django-cheat-sheet.pdf)
+* [DjangoCheatSheet](https://code.djangoproject.com/wiki/DjangoCheatSheet)
  
 ###web2py
 * [web2py](https://dl.dropboxusercontent.com/u/18065445/web2py/web2py_cheatsheet.pdf)
