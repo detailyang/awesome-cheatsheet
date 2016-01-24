@@ -48,6 +48,7 @@
     * [Node.js](#nodejs)
     * [express](#express)
     * [underscore.js](#underscore)
+    * [es6](#es6)
 * [LaTeX](#latex)
 * [Linux](#linux)
 * [Lisp](#lisp)
@@ -275,8 +276,10 @@
 * [jquery](http://lab.abhinayrathore.com/jquery-cheatsheet/)
 
 ###underscore
-
 * [underscore-cheat-sheet](http://f.cl.ly/items/093o0l2Y3u130y0W0c0x/underscore-cheat-sheet.pdf)
+
+###es6
+* [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
 
 ###linux   
 * [linux-command-line-cheat-sheet](http://www.addedbytes.com/cheat-sheets/linux)
