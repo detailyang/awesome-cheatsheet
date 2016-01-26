@@ -18,6 +18,7 @@
 * [COBOL](#cobol)
 * [CoffeeScript](#coffeescript)
 * [ColdFusion](#coldfusion)
+* [curl](#curl)
 * [devops](#devops)
 * [Dart](#dart)
 * [DB2](#db2)
@@ -169,6 +170,9 @@
 
 ###css  
 * [css3-cheat-sheet](http://media.smashingmagazine.com/wp-content/uploads/images/css3-cheat-sheet/css3-cheat-sheet.pdf)
+
+###curl
+* [curl](https://github.com/bagder/curl-cheat-sheet)
 
 ###devops
 * [saltstack](https://github.com/saltstack/salt/wiki/Cheat-Sheet)
