@@ -3,7 +3,7 @@
 > List of useful cheatsheets
 
 ###Index
-
+https://github.com/DrkSephy/es6-cheatsheet
 * [Acm](#acm)
 * [Ada](#ada)
 * [Agda](#agda)
@@ -388,6 +388,7 @@
  
 ###rspec
 * [rspec](https://gist.github.com/dnagir/663876)
+* [RSpec cheatsheet](https://github.com/eliotsykes/rspec-rails-examples)
 
 ###ror
 * [ror](http://www.addedbytes.com/cheat-sheets/ruby-on-rails-cheat-sheet/)
