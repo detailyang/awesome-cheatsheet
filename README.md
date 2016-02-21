@@ -428,6 +428,7 @@
 ###security
 * [TML5 Security Cheatsheet](https://github.com/cure53/H5SC)
 * [Penetration Testing/Security Cheatsheets](https://github.com/jshaw87/Cheatsheets)
+* [oauthsecurity](https://github.com/homakov/oauthsecurity)
 
 ###tcl
 * [wiki](http://wiki.tcl.tk/10710)
