@@ -3,7 +3,6 @@
 > List of useful cheatsheets
 
 ###Index
-https://github.com/DrkSephy/es6-cheatsheet
 * [Acm](#acm)
 * [Ada](#ada)
 * [Agda](#agda)
@@ -58,7 +57,8 @@ https://github.com/DrkSephy/es6-cheatsheet
 * [Linux](#linux)
 * [Lisp](#lisp)
 * [Lua](#lua)
-* [math](#math)
+* [Mac](#mac)
+* [Math](#math)
 * [Mathematica](#mathematica)
 * [MATLAB](#matlab)
 * [Maven](#maven)
@@ -301,6 +301,9 @@ https://github.com/DrkSephy/es6-cheatsheet
 
 ###lua
 * [luarefv51single](http://lua-users.org/files/wiki_insecure/users/thomasl/luarefv51single.pdf)
+
+###mac
+* [terminal-mac-cheatsheet](https://github.com/0nn0/terminal-mac-cheatsheet)
 
 ###math
 * [math as code](https://github.com/Jam3/math-as-code)
