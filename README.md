@@ -45,6 +45,7 @@
 * [Java](#java)
     * [Wicket](#wicket)
 * [JavaScript](#javascript)
+    * [React](#react) 
     * [Angular.js](#angularjs)
     * [Backbone.js](#backbonejs)
     * [D3.js](#d3js)
@@ -256,7 +257,7 @@
 ###Apache Wicket
 * [getting-started-apache-wicket](http://refcardz.dzone.com/refcardz/getting-started-apache-wicket)
 
-###javasciprt
+###javascript
 * [javascript-cheat-sheet](http://www.addedbytes.com/cheat-sheets/javascript-cheat-sheet/)
 * [grunt node bower](http://jessewarden.com/2013/09/node-bower-grunt-n00b-cheat-sheet.html)
 * [gulp](https://github.com/osscafe/gulp-cheatsheet)
@@ -272,6 +273,9 @@
 
 ###backbone
 * [backbone-cheatsheet](http://www.igloolab.com/downloads/backbone-cheatsheet.pdf)
+
+###react
+* [react-cheatsheet](http://reactcheatsheet.com/)
 
 ###angular
 * [angularjs](www.cheatography.com/proloser/cheat-sheets/angularjs/)
