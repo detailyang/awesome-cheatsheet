@@ -53,7 +53,6 @@
     * [jQuery](#jquery)
     * [Node.js](#nodejs)
     * [express](#express)
-    * [react](#react)
     * [underscore.js](#underscore)
     * [es6](#es6)
 * [LaTeX](#latex)
@@ -290,9 +289,6 @@
 ###jquery 
 * [jquery](http://oscarotero.com/jquery/)
 * [jquery](http://lab.abhinayrathore.com/jquery-cheatsheet/)
-
-###react
-* [reactcheatsheet.com](http://reactcheatsheet.com/)
 
 ###underscore
 * [underscore-cheat-sheet](http://f.cl.ly/items/093o0l2Y3u130y0W0c0x/underscore-cheat-sheet.pdf)
