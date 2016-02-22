@@ -253,6 +253,7 @@
 
 ###java     
 * [core java](http://refcardz.dzone.com/refcardz/core-java)
+* [core java concurrency](https://dzone.com/refcardz/core-java-concurrency)
 
 ###Apache Wicket
 * [getting-started-apache-wicket](http://refcardz.dzone.com/refcardz/getting-started-apache-wicket)
