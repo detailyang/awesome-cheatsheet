@@ -46,7 +46,7 @@
     * [Wicket](#wicket)
 * [JavaScript](#javascript)
     * [React](#react) 
-    * [Angular.js](#angularjs)
+    * [Angular.js](#angular)
     * [Backbone.js](#backbonejs)
     * [D3.js](#d3js)
     * [Dojo](#dojo)
@@ -280,7 +280,8 @@
 * [react-cheatsheet](http://reactcheatsheet.com/)
 
 ###angular
-* [angularjs](www.cheatography.com/proloser/cheat-sheets/angularjs/)
+* [angular2](https://angular.io/cheatsheet)
+* [angularjs](http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
         
 ###ember
 * [ember-js](www.cheatography.com/mwore/cheat-sheets/ember-js/)
