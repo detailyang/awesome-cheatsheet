@@ -280,6 +280,7 @@
 * [react-cheatsheet](http://reactcheatsheet.com/)
 
 ###angular
+* [angular2](https://angular.io/cheatsheet)
 * [angularjs](http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
         
 ###ember
