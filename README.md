@@ -15,7 +15,7 @@
 * [ASP.NET MVC](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fa.md#aspnet-mvc)
 * [Assembly Language](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fa.md#assembly-language)
 * [Awk](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fa.md#awk)
-* [Bash](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fa.md#bash)
+* [Bash](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fb.md#bash)
 * [C](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fc.md#c)
 * [C++](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fc.md#cpp)
 * [Clojure](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fc.md#clojure)
