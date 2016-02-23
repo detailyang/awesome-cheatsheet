@@ -37,9 +37,9 @@
 * [Fortran](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Ff.md#fortran)
 * [Git](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fg.md#git)
 * [Go](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fg.md#go)
-* [Hadoop](#hadoop)
-* [Haskell](#haskell)
-* [HTML / CSS](#html--css)
+* [Hadoop](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fh.md#hadoop)
+* [Haskell](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fh.md#haskell)
+* [HTML](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fh.md#html)
 * [IDL](#idl)
 * [iOS](#ios)
 * [Java](#java)
@@ -119,15 +119,6 @@
 * [WAI-ARIA](#wai-aria)
 * [Webpack](#webpack)
 
-
-###hadoop
-* [getting-started-apache-hadoop](http://refcardz.dzone.com/refcardz/getting-started-apache-hadoop)
-
-###haskell
-* [haskell](http://blog.codeslower.com/static/CheatSheet.pdf)
-
-###html
-* [core html](http://refcardz.dzone.com/refcardz/core-html)
 
 ###idl
 * [idl](http://solar.physics.montana.edu/reu/2010/gkerr/Links/idl_plotting_quick_reference_cheat_crib_sheet.pdf)
