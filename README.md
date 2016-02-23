@@ -59,14 +59,14 @@
 * [Linux](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fl.md#linux)
 * [Lisp](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fl.md#lisp)
 * [Lua](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fl.md#lua)
-* [Mac](#mac)
-* [Math](#math)
-* [Mathematica](#mathematica)
-* [MATLAB](#matlab)
-* [Maven](#maven)
-* [Mercurial](#mercurial)
-* [Meta-Lists](#meta-lists)
-* [MySQL](#mysql)
+* [Mac](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fm.md#mac)
+* [Math](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fm.md#math)
+* [Mathematica](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fm.md#mathematica)
+* [MATLAB](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fm.md#matlab)
+* [Maven](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fm.md#maven)
+* [Mercurial](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fm.md#mercurial)
+* [Meta-Lists](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fm.md#meta-lists)
+* [MySQL](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fm.md#mysql)
 * [.NET](#net)
 * [Objective-C](#objective-c)
 * [OCaml](#ocaml)
@@ -118,27 +118,6 @@
 * [Vim](#vim)
 * [WAI-ARIA](#wai-aria)
 * [Webpack](#webpack)
-###mac
-* [terminal-mac-cheatsheet](https://github.com/0nn0/terminal-mac-cheatsheet)
-
-###math
-* [math as code](https://github.com/Jam3/math-as-code)
-
-###markdown
-* [syntax](http://daringfireball.net/projects/markdown/syntax)
-
-###matlab
-* [matlab-cheatsheet](http://web.mit.edu/18.06/www/Spring09/matlab-cheatsheet.pdf)
-
-###mave
-* [apache-maven-2](http://refcardz.dzone.com/refcardz/apache-maven-2)
-
-###mercurial
-* [mercurial](http://www.cheatography.com/codeshane/cheat-sheets/mercurial-hg/)
-
-###mysql
-* [mysql-cheat-sheet](http://www.addedbytes.com/cheat-sheets/mysql-cheat-sheet/)
-* [sql-join-cheat-sheet](http://coolshell.cn/articles/3463.html)
 
 ###net
 * [coredotnet](http://refcardz.dzone.com/refcardz/coredotnet)
