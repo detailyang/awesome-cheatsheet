@@ -69,34 +69,34 @@
 * [MySQL](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fm.md#mysql)
 * [.NET](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fn.md#net)
 * [Objective-C](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fo.md#objective-c)
-* [OCaml](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fn.md#ocaml)
-* [Octave](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fn.md#octave)
-* [OpenGL ES](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fn.md#opengl-es)
-* [Oracle PL/SQL](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fn.md#oracle-plsql)
-* [Oracle Server](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fn.md#oracle-server)
-* [Parrot / Perl 6](#parrot--perl-6)
-* [PC-BSD](#pc-bsd)
-* [Perl](#perl)
-* [PHP](#php)
-* [PicoLisp](#picolisp)
-* [PostgreSQL](#postgresql)
-* [PowerShell](#powershell)
-* [Processing](#processing)
-* [Prolog](#prolog)
-* [Python](#python)
-    * [Python](#python)
-    * [Django](#django)
-    * [Flask](#flask)
-    * [web2py](#web2py)
-* [R](#r)
-* [Racket](#racket)
-* [REBOL](#rebol)
-* [ROS](#ros)
-* [Ruby](#ruby)
-    * [RSpec](#rspec)
-    * [Sinatra](#sinatra)
-    * [Ruby on Rails](#ror)
-* [Rust](#rust)
+* [OCaml](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fo.md#ocaml)
+* [Octave](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fo.md#octave)
+* [OpenGL ES](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fo.md#opengl-es)
+* [Oracle PL/SQL](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fo.md#oracle-plsql)
+* [Oracle Server](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fo.md#oracle-server)
+* [Parrot / Perl 6](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fp.md#parrot--perl-6)
+* [PC-BSD](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fp.md#pc-bsd)
+* [Perl](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fp.md#perl)
+* [PHP](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fp.md#php)
+* [PicoLisp](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fp.md#picolisp)
+* [PostgreSQL](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fp.md#postgresql)
+* [PowerShell](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fp.md#powershell)
+* [Processing](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fp.md#processing)
+* [Prolog](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fp.md#prolog)
+* [Python](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fp.md#python)
+    * [Python](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fp.md#python)
+    * [Django](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fp.md#django)
+    * [Flask](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fp.md#flask)
+    * [web2py](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fp.md#web2py)
+* [R](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fr.md#r)
+* [Racket](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fr.md#racket)
+* [REBOL](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fr.md#rebol)
+* [ROS](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fr.md#ros)
+* [Ruby](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fr.md#ruby)
+    * [RSpec](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fr.md#rspec)
+    * [Sinatra](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fr.md#sinatra)
+    * [Ruby on Rails](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fr.md#ror)
+* [Rust](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fp.md#rust)
 * [Sage](#sage)
 * [Swift](#swift)
 * [Scala](#scala)
@@ -118,79 +118,6 @@
 * [Vim](#vim)
 * [WAI-ARIA](#wai-aria)
 * [Webpack](#webpack)
-
-###ocaml
-* [ocaml](http://ocaml.org/docs/cheat_sheets.html)
-
-###octave
-* [octave](http://folk.ntnu.no/joern/itgk/refcard-a4.pdf)
-
-###opengl
-* [opengl](http://www.opengl.org/sdk/docs/reference_card/opengl32-quick-reference-card.pdf)
-
-###oracle
-* [Oracle_Programming](http://en.wikibooks.org/wiki/Oracle_Programming/SQL_Cheatsheet)
-
-###perl
-* [perl_refcard](http://www.cheat-sheets.org/saved-copy/perl_refcard.pdf)
-
-###php
-* [php-cheat-sheet](https://www.addedbytes.com/cheat-sheets/php-cheat-sheet/)
-* [php-54-scalable](http://refcardz.dzone.com/refcardz/php-54-scalable)
-* [laravel-cheatsheet](https://github.com/jesseobrien/laravel-cheatsheet)
-
-###postgresql
-* [postgresql](http://refcardz.dzone.com/refcardz/essential-postgresql)
-* [awesome-postgres](https://github.com/dhamaniasad/awesome-postgres)
-
-###prolog
-* [prolog](http://www.cheatography.com/tomma156/cheat-sheets/prolog-cheatsheet/)
-
-###python
-* [python-cheat-sheet](http://www.addedbytes.com/cheat-sheets/python-cheat-sheet/)
-* [python feature](https://github.com/PythonCharmers/python-future)
-
-###flask
-* [flask](https://docs.google.com/file/d/1pnwfq8v5Ph4Xn8ttv9P_TLnrRbT9-S_v-KdZiEcx64vlGYkC0SoMfZOs0NYN/edit?usp=drive_web)
-
-###django
-* [django 1.5](http://www.mercurytide.co.uk/media/resources/django-cheat-sheet.pdf)
-* [DjangoCheatSheet](https://code.djangoproject.com/wiki/DjangoCheatSheet)
-
-###web2py
-* [web2py](https://dl.dropboxusercontent.com/u/18065445/web2py/web2py_cheatsheet.pdf)
-
-###regular expressions
-* [regular-expressions-cheat-sheet](http://www.addedbytes.com/cheat-sheets/regular-expressions-cheat-sheet/)
-* [regular-expressions](http://refcardz.dzone.com/refcardz/regular-expressions)
-
-###r
-* [r](http://cran.r-project.org/doc/contrib/Baggott-refcard-v2.pdf)
-
-###racket
-* [racket](http://docs.racket-lang.org/guide/)
-
-###rebol
-* [rebol](http://rebol.desajn.net/cheatsheet.html)
-
-###rest
-* [rest-foundations-restful](http://refcardz.dzone.com/refcardz/rest-foundations-restful)
-
-###ROS
-* [ROS Indigo Igloo](https://github.com/ros/cheatsheet/releases)
-
-###ruby
-* [essential-ruby](http://refcardz.dzone.com/refcardz/essential-ruby)
-
-###rspec
-* [rspec](https://gist.github.com/dnagir/663876)
-* [RSpec cheatsheet](https://github.com/eliotsykes/rspec-rails-examples)
-
-###ror
-* [ror](http://www.addedbytes.com/cheat-sheets/ruby-on-rails-cheat-sheet/)
-
-###rust
-* [complement-cheatsheet](http://static.rust-lang.org/doc/0.9/complement-cheatsheet.html)
 
 ###scala
 * [scala](http://docs.scala-lang.org/cheatsheets/)
