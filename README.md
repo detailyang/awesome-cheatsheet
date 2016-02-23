@@ -29,9 +29,9 @@
 * [Delphi / Pascal](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fd.md#delphi)
 * [DTrace](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fd.md#dtrace)
 * [Docker](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fd.md#docker)
-* [Emacs](#emacs)
-* [Erlang](#erlang)
-* [Emoji](#emoji)
+* [Emacs](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fe.md#emacs)
+* [Erlang](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fe.md#erlang)
+* [Emoji](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fe.md#emoji)
 * [F#](#f-sharp)
 * [Flex](#flex)
 * [Fortran](#fortran)
@@ -118,15 +118,6 @@
 * [Vim](#vim)
 * [WAI-ARIA](#wai-aria)
 * [Webpack](#webpack)
-
-###emacs
-* [emacs-refcard-a4](http://refcards.com/docs/gildeas/gnu-emacs/emacs-refcard-a4.pdf)
-
-###erlang
-* [Erlang](http://www.cheat-sheets.org/saved-copy/Erlang.CheatSheet(1.0).pdf)
-
-###emoji
-* [Emoji](https://github.com/detailyang/cheat-sheets/edit/master/README.md)
 
 ###f-sharp
 * [fsharp-cheat-sheet](http://dungpa.github.io/fsharp-cheatsheet)
