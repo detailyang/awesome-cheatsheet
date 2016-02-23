@@ -3,6 +3,7 @@
 
 ###tmux
 * [tmux](https://gist.github.com/andreyvit/2921703)
+* [tmuxcheatsheet](http://tmuxcheatsheet.com/)
 
 ###typescript
 * [official-typescript-handbook](http://www.typescriptlang.org/Handbook)
