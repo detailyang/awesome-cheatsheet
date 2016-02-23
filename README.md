@@ -4,14 +4,14 @@
 > List of useful cheatsheets
 
 ###Index
-* [Acm](#acm)
-* [Ada](#ada)
-* [Agda](#agda)
-* [Algorithm](#algorithm)
-* [Android](#android)
-* [APL](#apl)
-* [Apache](#apache)
-* [Arduino](#arduino)
+* [Acm](https://github.com/detailyang/awesome-cheatsheet/master/docs/a.md#acm)
+* [Ada](https://github.com/detailyang/awesome-cheatsheet/master/docs/a.md#ada)
+* [Agda](https://github.com/detailyang/awesome-cheatsheet/master/docs/a.md#agda)
+* [Algorithm](https://github.com/detailyang/awesome-cheatsheet/master/docs/a.md#algorithm)
+* [Android](https://github.com/detailyang/awesome-cheatsheet/master/docs/a.md#android)
+* [APL](https://github.com/detailyang/awesome-cheatsheet/master/docs/a.md#apl)
+* [Apache](https://github.com/detailyang/awesome-cheatsheet/master/docs/a.md#apache)
+* [Arduino](https://github.com/detailyang/awesome-cheatsheet/master/docs/a.md#arduino)
 * [ASP.NET MVC](#aspnet-mvc)
 * [Assembly Language](#assembly-language)
 * [Awk](#awk)
@@ -45,7 +45,7 @@
 * [Java](#java)
     * [Wicket](#wicket)
 * [JavaScript](#javascript)
-    * [React](#react) 
+    * [React](#react)
     * [Angular.js](#angular)
     * [Backbone.js](#backbonejs)
     * [D3.js](#d3js)
@@ -120,29 +120,13 @@
 * [Webpack](#webpack)
 
 
-###acm
-* [acm-cheat-sheet](https://github.com/soulmachine/acm-cheat-sheet)
-
-###ada
-* [ada](http://overapi.com/ada/)
-
-###awk
-* [awk-nawk-and-gawk-cheat-sheet](http://www.catonmat.net/blog/awk-nawk-and-gawk-cheat-sheet/)
-
-###android
-* [Android-Cheatsheet-For-Graphic-Designers](http://petrnohejl.github.io/Android-Cheatsheet-For-Graphic-Designers/)
-* [android-application](http://refcardz.dzone.com/refcardz/android-application)
-
-###algorithm
-* [bigo](http://bigocheatsheet.com/)
-
 ###arduino
 * [Arduino_Cheat_Sheet.pdf](http://dlnmh9ip6v2uc.cloudfront.net/learn/materials/8/Arduino_Cheat_Sheet.pdf)
 
 ###apache
 * [essential-apache-http-server](http://refcardz.dzone.com/refcardz/essential-apache-http-server)
 
-###aspnet-mvc 
+###aspnet-mvc
 * [core-aspnet](http://refcardz.dzone.com/refcardz/core-aspnet)
 
 ###assembly-language
@@ -153,14 +137,14 @@
 ###bash
 * [bash cheat sheet](http://cli.learncodethehardway.org/bash_cheat_sheet.pdf)
 
-###c 
+###c
 * [c](http://claymore.engineer.gvsu.edu/~steriana/226/C.CheatSheet.pdf)
 
-###c-sharp          
+###c-sharp
 * [core c sharp](http://www.digilife.be/quickreferences/QRC/Core%20CSharp%20and%20.NET%20Quick%20Reference.pdf)
 
 ###cpp
-* [c11-a-cheat-sheet-alex-sinyakov](http://isocpp.org/blog/2012/12/c11-a-cheat-sheet-alex-sinyakov)  
+* [c11-a-cheat-sheet-alex-sinyakov](http://isocpp.org/blog/2012/12/c11-a-cheat-sheet-alex-sinyakov)
 * [statement_list_stl_cheat_sheets](http://www.plcdev.com/statement_list_stl_cheat_sheets)
 
 ###clojure
@@ -176,7 +160,7 @@
 ###coldfusion
 * [getting-started-coldfusion-9](http://refcardz.dzone.com/refcardz/getting-started-coldfusion-9)
 
-###css  
+###css
 * [css3-cheat-sheet](http://media.smashingmagazine.com/wp-content/uploads/images/css3-cheat-sheet/css3-cheat-sheet.pdf)
 
 ###curl
@@ -200,7 +184,7 @@
 ###dtrace
 * [dtrace_cheatsheet](https://blogs.oracle.com/brendan/entry/dtrace_cheatsheet)
 
-###desgin pattern   
+###desgin pattern
 * [desgin pattern](http://refcardz.dzone.com/refcardz/design-patterns)
 
 ###emacs
@@ -233,7 +217,7 @@
 * [git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet)
 * [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)
 * [git-style-guide](https://github.com/agis-/git-style-guide)
-* [git-flow-cheatsheet](https://github.com/danielkummer/git-flow-cheatsheet) 
+* [git-flow-cheatsheet](https://github.com/danielkummer/git-flow-cheatsheet)
 
 ###hadoop
 * [getting-started-apache-hadoop](http://refcardz.dzone.com/refcardz/getting-started-apache-hadoop)
@@ -241,8 +225,8 @@
 ###haskell
 * [haskell](http://blog.codeslower.com/static/CheatSheet.pdf)
 
-###html     
-* [core html](http://refcardz.dzone.com/refcardz/core-html) 
+###html
+* [core html](http://refcardz.dzone.com/refcardz/core-html)
 
 ###idl
 * [idl](http://solar.physics.montana.edu/reu/2010/gkerr/Links/idl_plotting_quick_reference_cheat_crib_sheet.pdf)
@@ -252,7 +236,7 @@
 * [ios-developer-cheat-sheets](http://maniacdev.com/2011/01/ios-developer-cheat-sheets)
 * [ios-cheat-sheet](https://github.com/Avocarrot/ios-cheatsheet)
 
-###java     
+###java
 * [core java](http://refcardz.dzone.com/refcardz/core-java)
 * [core java concurrency](https://dzone.com/refcardz/core-java-concurrency)
 
@@ -282,14 +266,14 @@
 ###angular
 * [angular2](https://angular.io/cheatsheet)
 * [angularjs](http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
-        
+
 ###ember
 * [ember-js](www.cheatography.com/mwore/cheat-sheets/ember-js/)
- 
+
 ###nodejs
 * [nodejs](http://overapi.com/nodejs/)
 
-###jquery 
+###jquery
 * [jquery](http://oscarotero.com/jquery/)
 * [jquery](http://lab.abhinayrathore.com/jquery-cheatsheet/)
 
@@ -299,7 +283,7 @@
 ###es6
 * [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
 
-###linux   
+###linux
 * [linux-command-line-cheat-sheet](http://www.addedbytes.com/cheat-sheets/linux)
 
 ###latex
@@ -317,7 +301,7 @@
 ###math
 * [math as code](https://github.com/Jam3/math-as-code)
 
-###markdown   
+###markdown
 * [syntax](http://daringfireball.net/projects/markdown/syntax)
 
 ###matlab
@@ -336,9 +320,9 @@
 ###net
 * [coredotnet](http://refcardz.dzone.com/refcardz/coredotnet)
 
-###objective-c 
+###objective-c
 * [objective-c in depth](https://github.com/iwasrobbed/Objective-C-CheatSheet)
-* [objective-c-iphone-and-ipad](http://refcardz.dzone.com/refcardz/objective-c-iphone-and-ipad) 
+* [objective-c-iphone-and-ipad](http://refcardz.dzone.com/refcardz/objective-c-iphone-and-ipad)
 * [Objective-C-CheatSheet](https://github.com/iwasrobbed/Objective-C-CheatSheet)
 * [iOS-App-Performance-Cheatsheet](https://github.com/danielamitay/iOS-App-Performance-Cheatsheet)
 
@@ -362,7 +346,7 @@
 * [php-54-scalable](http://refcardz.dzone.com/refcardz/php-54-scalable)
 * [laravel-cheatsheet](https://github.com/jesseobrien/laravel-cheatsheet)
 
-###postgresql 
+###postgresql
 * [postgresql](http://refcardz.dzone.com/refcardz/essential-postgresql)
 * [awesome-postgres](https://github.com/dhamaniasad/awesome-postgres)
 
@@ -379,13 +363,13 @@
 ###django
 * [django 1.5](http://www.mercurytide.co.uk/media/resources/django-cheat-sheet.pdf)
 * [DjangoCheatSheet](https://code.djangoproject.com/wiki/DjangoCheatSheet)
- 
+
 ###web2py
 * [web2py](https://dl.dropboxusercontent.com/u/18065445/web2py/web2py_cheatsheet.pdf)
 
-###regular expressions     
+###regular expressions
 * [regular-expressions-cheat-sheet](http://www.addedbytes.com/cheat-sheets/regular-expressions-cheat-sheet/)
-* [regular-expressions](http://refcardz.dzone.com/refcardz/regular-expressions) 
+* [regular-expressions](http://refcardz.dzone.com/refcardz/regular-expressions)
 
 ###r
 * [r](http://cran.r-project.org/doc/contrib/Baggott-refcard-v2.pdf)
@@ -403,8 +387,8 @@
 * [ROS Indigo Igloo](https://github.com/ros/cheatsheet/releases)
 
 ###ruby
-* [essential-ruby](http://refcardz.dzone.com/refcardz/essential-ruby) 
- 
+* [essential-ruby](http://refcardz.dzone.com/refcardz/essential-ruby)
+
 ###rspec
 * [rspec](https://gist.github.com/dnagir/663876)
 * [RSpec cheatsheet](https://github.com/eliotsykes/rspec-rails-examples)
@@ -434,8 +418,8 @@
 * [swift cheatsheet](https://github.com/iwasrobbed/Swift-CheatSheet)
 * [swift design patterns](https://github.com/ochococo/Design-Patterns-In-Swift)
 
-###sed 
-* [sed-stream-editor-cheat-sheet](http://www.catonmat.net/blog/sed-stream-editor-cheat-sheet/) 
+###sed
+* [sed-stream-editor-cheat-sheet](http://www.catonmat.net/blog/sed-stream-editor-cheat-sheet/)
 * [SedChart](http://www.grymoire.com/unix/SedChart.pdf)
 * [salt](https://github.com/harkx/saltstack-cheatsheet)
 
