@@ -96,57 +96,28 @@
     * [RSpec](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fr.md#rspec)
     * [Sinatra](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fr.md#sinatra)
     * [Ruby on Rails](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fr.md#ror)
-* [Rust](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fp.md#rust)
-* [Sage](#sage)
-* [Swift](#swift)
-* [Scala](#scala)
-    * [Lift](#lift)
-    * [Play Scala](#play-scala)
-* [Scheme](#scheme)
-* [Scilab](#scilab)
-* [Scratch](#scratch)
-* [salt](#salt)
-* [Sed](#sed)
-* [Silverlight](#silverlight)
-* [Smalltalk](#smalltalk)
-* [Subversion](#subversion)
-* [Security](#security)
-* [Tcl](#tcl)
-* [tmux](#tmux)
-* [TypeScript](#typescript)
+* [Rust](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fr.md#rust)
+* [Sage](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fs.md#sage)
+* [Swift](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fs.md#swift)
+* [Scala](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fs.md#scala)
+    * [Lift](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fs.md#lift)
+    * [Play Scala](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fs.md#play-scala)
+* [Scheme](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fs.md#scheme)
+* [Scilab](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fs.md#scilab)
+* [Scratch](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fs.md#scratch)
+* [salt](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fs.md#salt)
+* [Sed](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fs.md#sed)
+* [Silverlight](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fs.md#silverlight)
+* [Smalltalk](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fs.md#smalltalk)
+* [Subversion](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fs.md#subversion)
+* [Security](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fs.md#security)
+* [Tcl](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Ft.md#tcl)
+* [tmux](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Ft.md#tmux)
+* [TypeScript](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Ft.md#typescript)
 * [Unix](#unix)
 * [Vim](#vim)
 * [WAI-ARIA](#wai-aria)
 * [Webpack](#webpack)
-
-###scala
-* [scala](http://docs.scala-lang.org/cheatsheets/)
-
-###scheme
-* [scheme](http://courses.cs.washington.edu/courses/cse341/02wi/scheme/cheat-sheet.html)
-
-###smalltalk
-* [st cheatsheet](http://stephane.ducasse.free.fr/Teaching/0809Turino/st-cheatsheet.pdf)
-
-###subversion
-* [svn](http://www.abbeyworkshop.com/howto/misc/svn01/)
-
-###silverlight
-* [silverlight2](http://refcardz.dzone.com/refcardz/silverlight2)
-
-###swift
-* [swift cheatsheet](https://github.com/iwasrobbed/Swift-CheatSheet)
-* [swift design patterns](https://github.com/ochococo/Design-Patterns-In-Swift)
-
-###sed
-* [sed-stream-editor-cheat-sheet](http://www.catonmat.net/blog/sed-stream-editor-cheat-sheet/)
-* [SedChart](http://www.grymoire.com/unix/SedChart.pdf)
-* [salt](https://github.com/harkx/saltstack-cheatsheet)
-
-###security
-* [TML5 Security Cheatsheet](https://github.com/cure53/H5SC)
-* [Penetration Testing/Security Cheatsheets](https://github.com/jshaw87/Cheatsheets)
-* [oauthsecurity](https://github.com/homakov/oauthsecurity)
 
 ###tcl
 * [wiki](http://wiki.tcl.tk/10710)
