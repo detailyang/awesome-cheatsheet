@@ -32,9 +32,9 @@
 * [Emacs](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fe.md#emacs)
 * [Erlang](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fe.md#erlang)
 * [Emoji](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fe.md#emoji)
-* [F#](#f-sharp)
-* [Flex](#flex)
-* [Fortran](#fortran)
+* [F#](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Ff.md#f-sharp)
+* [Flex](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Ff.md#flex)
+* [Fortran](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Ff.md#fortran)
 * [Git](#git)
 * [Go](#go)
 * [Hadoop](#hadoop)
@@ -118,15 +118,6 @@
 * [Vim](#vim)
 * [WAI-ARIA](#wai-aria)
 * [Webpack](#webpack)
-
-###f-sharp
-* [fsharp-cheat-sheet](http://dungpa.github.io/fsharp-cheatsheet)
-
-###flex
-* [flex](http://www.sketchingwithcss.com/samplechapter/cheatsheet.html)
-
-###foratn
-* [fortran_quick_reference_cheat_crib_sheet](http://fm127.ugr.es/imnf/descargas/archivos/fortran_quick_reference_cheat_crib_sheet.pdf)
 
 ###go
 * [go-lang-cheat-sheet](https://github.com/phayes/go-lang-cheat-sheet)
