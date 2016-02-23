@@ -114,19 +114,7 @@
 * [Tcl](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Ft.md#tcl)
 * [tmux](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Ft.md#tmux)
 * [TypeScript](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Ft.md#typescript)
-* [Unix](#unix)
-* [Vim](#vim)
-* [WAI-ARIA](#wai-aria)
-* [Webpack](#webpack)
-
-###unix
-* [unix_commands](http://www.ensyncsolutions.com/library/unix_commands.pdf)
-
-###vim
-* [a_vi_vim_graphical_cheat_sheet_tutorial](http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html)
-
-###wai-aria
-* [wai-aria](http://lab.abhinayrathore.com/aria-cheatsheet/)
-
-###webpack
-* [webpack](https://github.com/petehunt/webpack-howto)
+* [Unix](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fu.md#unix)
+* [Vim](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fv.md#vim)
+* [WAI-ARIA](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fw.md#wai-aria)
+* [Webpack](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fw.md#webpack)
