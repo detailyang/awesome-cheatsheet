@@ -42,23 +42,23 @@
 * [HTML](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fh.md#html)
 * [IDL](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fi.md#idl)
 * [iOS](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fi.md#ios)
-* [Java](#java)
-    * [Wicket](#wicket)
-* [JavaScript](#javascript)
-    * [React](#react)
-    * [Angular.js](#angular)
-    * [Backbone.js](#backbonejs)
-    * [D3.js](#d3js)
-    * [Dojo](#dojo)
-    * [jQuery](#jquery)
-    * [Node.js](#nodejs)
-    * [express](#express)
-    * [underscore.js](#underscore)
-    * [es6](#es6)
-* [LaTeX](#latex)
-* [Linux](#linux)
-* [Lisp](#lisp)
-* [Lua](#lua)
+* [Java](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fj.md#java)
+    * [Wicket](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fj.md#wicket)
+* [JavaScript](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fj.md#javascript)
+    * [React](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fj.md#react)
+    * [Angular.js](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fj.md#angular)
+    * [Backbone.js](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fj.md#backbonejs)
+    * [D3.js](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fj.md#d3js)
+    * [Dojo](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fj.md#dojo)
+    * [jQuery](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fj.md#jquery)
+    * [Node.js](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fj.md#nodejs)
+    * [express](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fj.md#express)
+    * [underscore.js](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fj.md#underscore)
+    * [es6](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fj.md#es6)
+* [LaTeX](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fl.md#latex)
+* [Linux](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fl.md#linux)
+* [Lisp](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fl.md#lisp)
+* [Lua](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fl.md#lua)
 * [Mac](#mac)
 * [Math](#math)
 * [Mathematica](#mathematica)
@@ -118,53 +118,6 @@
 * [Vim](#vim)
 * [WAI-ARIA](#wai-aria)
 * [Webpack](#webpack)
-
-###java
-* [core java](http://refcardz.dzone.com/refcardz/core-java)
-* [core java concurrency](https://dzone.com/refcardz/core-java-concurrency)
-
-###Apache Wicket
-* [getting-started-apache-wicket](http://refcardz.dzone.com/refcardz/getting-started-apache-wicket)
-
-###javascript
-* [javascript-cheat-sheet](http://www.addedbytes.com/cheat-sheets/javascript-cheat-sheet/)
-* [grunt node bower](http://jessewarden.com/2013/09/node-bower-grunt-n00b-cheat-sheet.html)
-* [gulp](https://github.com/osscafe/gulp-cheatsheet)
-
-###node
-* [express](https://github.com/azat-co/cheatsheets/blob/master/express4/index.md)
-
-###d3
-* [d3-cheat-sheet](http://www.jeromecukier.net/wp-content/uploads/2012/10/d3-cheat-sheet.pdf)
-
-###dojo
-* [dojo-1-8](http://www.cheatography.com/karim/cheat-sheets/dojo-1-8/)
-
-###backbone
-* [backbone-cheatsheet](http://www.igloolab.com/downloads/backbone-cheatsheet.pdf)
-
-###react
-* [react-cheatsheet](http://reactcheatsheet.com/)
-
-###angular
-* [angular2](https://angular.io/cheatsheet)
-* [angularjs](http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
-
-###ember
-* [ember-js](www.cheatography.com/mwore/cheat-sheets/ember-js/)
-
-###nodejs
-* [nodejs](http://overapi.com/nodejs/)
-
-###jquery
-* [jquery](http://oscarotero.com/jquery/)
-* [jquery](http://lab.abhinayrathore.com/jquery-cheatsheet/)
-
-###underscore
-* [underscore-cheat-sheet](http://f.cl.ly/items/093o0l2Y3u130y0W0c0x/underscore-cheat-sheet.pdf)
-
-###es6
-* [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
 
 ###linux
 * [linux-command-line-cheat-sheet](http://www.addedbytes.com/cheat-sheets/linux)
