@@ -23,12 +23,12 @@
 * [CoffeeScript](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fc.md#coffeescript)
 * [ColdFusion](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fc.md#coldfusion)
 * [curl](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fc.md#curl)
-* [devops](#devops)
-* [Dart](#dart)
-* [DB2](#db2)
-* [Delphi / Pascal](#delphi)
-* [DTrace](#dtrace)
-* [Docker](#docker)
+* [devops](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fd.md#devops)
+* [Dart](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fd.md#dart)
+* [DB2](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fd.md#db2)
+* [Delphi / Pascal](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fd.md#delphi)
+* [DTrace](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fd.md#dtrace)
+* [Docker](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fd.md#docker)
 * [Emacs](#emacs)
 * [Erlang](#erlang)
 * [Emoji](#emoji)
@@ -118,27 +118,6 @@
 * [Vim](#vim)
 * [WAI-ARIA](#wai-aria)
 * [Webpack](#webpack)
-
-###devops
-* [saltstack](https://github.com/saltstack/salt/wiki/Cheat-Sheet)
-
-###dart
-* [dart-cheat-sheet](http://dartlangfr.net/dart-cheat-sheet/)
-
-###docker
-* [docker](https://github.com/wsargent/docker-cheat-sheet)
-
-###db2
-* [dm-0406dang](https://www.ibm.com/developerworks/data/library/techarticle/dm-0406dang/)
-
-###delphi
-* [delphi](http://www.cheat-sheets.org/saved-copy/dquick.pdf)
-
-###dtrace
-* [dtrace_cheatsheet](https://blogs.oracle.com/brendan/entry/dtrace_cheatsheet)
-
-###desgin pattern
-* [desgin pattern](http://refcardz.dzone.com/refcardz/design-patterns)
 
 ###emacs
 * [emacs-refcard-a4](http://refcards.com/docs/gildeas/gnu-emacs/emacs-refcard-a4.pdf)
