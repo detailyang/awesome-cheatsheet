@@ -15,7 +15,7 @@
 * [ASP.NET MVC](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fa.md#aspnet-mvc)
 * [Assembly Language](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fa.md#assembly-language)
 * [Awk](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fa.md#awk)
-* [Bash](#bash)
+* [Bash](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fa.md#bash)
 * [C](#c)
 * [C++](#cpp)
 * [Clojure](#clojure)
@@ -118,24 +118,6 @@
 * [Vim](#vim)
 * [WAI-ARIA](#wai-aria)
 * [Webpack](#webpack)
-
-
-###arduino
-* [Arduino_Cheat_Sheet.pdf](http://dlnmh9ip6v2uc.cloudfront.net/learn/materials/8/Arduino_Cheat_Sheet.pdf)
-
-###apache
-* [essential-apache-http-server](http://refcardz.dzone.com/refcardz/essential-apache-http-server)
-
-###aspnet-mvc
-* [core-aspnet](http://refcardz.dzone.com/refcardz/core-aspnet)
-
-###assembly-language
-* [asmcheatsheet](https://www.ssucet.org/pluginfile.php/2726/mod_resource/content/1/asmcheatsheet.pdf)
-* [intel](http://www.jegerlehner.ch/intel/)
-
-
-###bash
-* [bash cheat sheet](http://cli.learncodethehardway.org/bash_cheat_sheet.pdf)
 
 ###c
 * [c](http://claymore.engineer.gvsu.edu/~steriana/226/C.CheatSheet.pdf)
