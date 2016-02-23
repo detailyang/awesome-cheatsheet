@@ -40,8 +40,8 @@
 * [Hadoop](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fh.md#hadoop)
 * [Haskell](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fh.md#haskell)
 * [HTML](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fh.md#html)
-* [IDL](#idl)
-* [iOS](#ios)
+* [IDL](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fi.md#idl)
+* [iOS](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fi.md#ios)
 * [Java](#java)
     * [Wicket](#wicket)
 * [JavaScript](#javascript)
@@ -118,15 +118,6 @@
 * [Vim](#vim)
 * [WAI-ARIA](#wai-aria)
 * [Webpack](#webpack)
-
-
-###idl
-* [idl](http://solar.physics.montana.edu/reu/2010/gkerr/Links/idl_plotting_quick_reference_cheat_crib_sheet.pdf)
-
-###ios
-* [the-ios-7-design-cheat-sheet](http://ivomynttinen.com/blog/the-ios-7-design-cheat-sheet/)
-* [ios-developer-cheat-sheets](http://maniacdev.com/2011/01/ios-developer-cheat-sheets)
-* [ios-cheat-sheet](https://github.com/Avocarrot/ios-cheatsheet)
 
 ###java
 * [core java](http://refcardz.dzone.com/refcardz/core-java)
