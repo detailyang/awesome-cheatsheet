@@ -4,7 +4,7 @@
 > List of useful cheatsheets
 
 ###Index
-* [Acm](https://github.com/detailyang/awesome-cheatsheet/feature/betterdir/docs%2Fa.md#acm)
+* [Acm](https://github.com/detailyang/awesome-cheatsheet/blob/feature/betterdir/docs%2Fa.md#acm)
 * [Ada](https://github.com/detailyang/awesome-cheatsheet/master/docs/a.md#ada)
 * [Agda](https://github.com/detailyang/awesome-cheatsheet/master/docs/a.md#agda)
 * [Algorithm](https://github.com/detailyang/awesome-cheatsheet/master/docs/a.md#algorithm)
