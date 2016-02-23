@@ -67,13 +67,13 @@
 * [Mercurial](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fm.md#mercurial)
 * [Meta-Lists](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fm.md#meta-lists)
 * [MySQL](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fm.md#mysql)
-* [.NET](#net)
-* [Objective-C](#objective-c)
-* [OCaml](#ocaml)
-* [Octave](#octave)
-* [OpenGL ES](#opengl-es)
-* [Oracle PL/SQL](#oracle-plsql)
-* [Oracle Server](#oracle-server)
+* [.NET](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fn.md#net)
+* [Objective-C](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fo.md#objective-c)
+* [OCaml](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fn.md#ocaml)
+* [Octave](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fn.md#octave)
+* [OpenGL ES](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fn.md#opengl-es)
+* [Oracle PL/SQL](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fn.md#oracle-plsql)
+* [Oracle Server](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fn.md#oracle-server)
 * [Parrot / Perl 6](#parrot--perl-6)
 * [PC-BSD](#pc-bsd)
 * [Perl](#perl)
@@ -118,15 +118,6 @@
 * [Vim](#vim)
 * [WAI-ARIA](#wai-aria)
 * [Webpack](#webpack)
-
-###net
-* [coredotnet](http://refcardz.dzone.com/refcardz/coredotnet)
-
-###objective-c
-* [objective-c in depth](https://github.com/iwasrobbed/Objective-C-CheatSheet)
-* [objective-c-iphone-and-ipad](http://refcardz.dzone.com/refcardz/objective-c-iphone-and-ipad)
-* [Objective-C-CheatSheet](https://github.com/iwasrobbed/Objective-C-CheatSheet)
-* [iOS-App-Performance-Cheatsheet](https://github.com/danielamitay/iOS-App-Performance-Cheatsheet)
 
 ###ocaml
 * [ocaml](http://ocaml.org/docs/cheat_sheets.html)
