@@ -5,7 +5,6 @@
 
 ###Index
 * [Acm](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fa.md#acm)
-* [Ada](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fa.md#ada)
 * [Agda](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fa.md#agda)
 * [Algorithm](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fa.md#algorithm)
 * [Android](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fa.md#android)
