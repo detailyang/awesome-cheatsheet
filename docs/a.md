@@ -21,5 +21,4 @@
 * [core-aspnet](http://refcardz.dzone.com/refcardz/core-aspnet)
 
 ###assembly-language
-* [asmcheatsheet](https://www.ssucet.org/pluginfile.php/2726/mod_resource/content/1/asmcheatsheet.pdf)
 * [intel](http://www.jegerlehner.ch/intel/)
