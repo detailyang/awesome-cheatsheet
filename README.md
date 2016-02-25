@@ -111,7 +111,6 @@
 * [Tcl](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Ft.md#tcl)
 * [tmux](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Ft.md#tmux)
 * [TypeScript](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Ft.md#typescript)
-* [Unix](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fu.md#unix)
 * [Vim](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fv.md#vim)
 * [WAI-ARIA](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fw.md#wai-aria)
 * [Webpack](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fw.md#webpack)
