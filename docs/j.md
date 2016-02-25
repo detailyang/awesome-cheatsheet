@@ -11,7 +11,7 @@
 * [gulp](https://github.com/osscafe/gulp-cheatsheet)
 
 ###node
-* [express](https://github.com/azat-co/cheatsheets/blob/master/express4/index.md)
+* [express](https://github.com/azat-co/cheatsheets/tree/master/express4)
 
 ###d3
 * [d3-cheat-sheet](http://www.jeromecukier.net/wp-content/uploads/2012/10/d3-cheat-sheet.pdf)

@@ -3,7 +3,7 @@
 # @Author: detailyang
 # @Date:   2016-02-25 11:23:59
 # @Last Modified by:   detailyang
-# @Last Modified time: 2016-02-25 15:13:44
+# @Last Modified time: 2016-02-25 15:33:42
 
 import re
 import sys
@@ -11,7 +11,7 @@ import sys
 from requests import get
 from requests.exceptions import ConnectionError, MissingSchema
 
-url_re = re.compile('.*\((.*?)\)')
+url_re = re.compile('.*\[.*\]\((.*)\)')
 
 for i in range(ord('a'), ord('z')+1):
     file = 'docs/{alphabet}.md'.format(alphabet=chr(i))
@@ -26,6 +26,7 @@ for i in range(ord('a'), ord('z')+1):
                     print('{file} line #{line} {url} return {code}'.format(file=file, line=line,
                         url=m.group(1), code=result.status_code))
                     sys.exit(1)
+                print('{file} line #{line} {url} pass'.format(file=file, line=line, url=m.group(1)))
             except ConnectionError:
                 print('{file} line #{line} {url} cannot connect'.format(file=file, line=line,
                         url=m.group(1)))
