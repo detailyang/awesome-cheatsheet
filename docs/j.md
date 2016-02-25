@@ -33,7 +33,7 @@
 * [ember-js](www.cheatography.com/mwore/cheat-sheets/ember-js/)
 
 ###nodejs
-* [nodejs](http://overapi.com/nodejs/)
+* [nodejs](https://gist.github.com/LeCoupa/985b82968d8285987dc3)
 
 ###jquery
 * [jquery](http://oscarotero.com/jquery/)
