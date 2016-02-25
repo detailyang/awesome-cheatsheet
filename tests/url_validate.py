@@ -3,13 +3,13 @@
 # @Author: detailyang
 # @Date:   2016-02-25 11:23:59
 # @Last Modified by:   detailyang
-# @Last Modified time: 2016-02-25 15:08:28
+# @Last Modified time: 2016-02-25 15:13:44
 
 import re
 import sys
 
 from requests import get
-from requests.exceptions import ConnectionError
+from requests.exceptions import ConnectionError, MissingSchema
 
 url_re = re.compile('.*\((.*?)\)')
 
@@ -27,6 +27,10 @@ for i in range(ord('a'), ord('z')+1):
                         url=m.group(1), code=result.status_code))
                     sys.exit(1)
             except ConnectionError:
-                    print('{file} line #{line} {url} cannot connect'.format(file=file, line=line,
+                print('{file} line #{line} {url} cannot connect'.format(file=file, line=line,
                         url=m.group(1)))
+            except MissingSchema:
+                print('{file} line #{line} {url} missing schema'.format(file=file, line=line,
+                        url=m.group(1)))
+
 

@@ -9,7 +9,7 @@
 * [statement_list_stl_cheat_sheets](http://www.plcdev.com/statement_list_stl_cheat_sheets)
 
 ###clojure
-* [clojure](clojure.org/cheatsheet)
+* [clojure](http://clojure.org/cheatsheet)
 
 ###cobol
 * [cobol-reference-and-examples](http://www.quicklycode.com/cheatsheets/cobol-reference-and-examples)
