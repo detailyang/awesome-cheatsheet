@@ -1,11 +1,10 @@
 <img src="https://cdn.rawgit.com/detailyang/awesome-cheatsheet/master/awesome.svg" alt="awesome" width="120" align="right" >
 # Awesome Cheatsheet [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-![Branch master](https://img.shields.io/badge/branch-master-brightgreen.svg?style=flat-square)[![Build Status](https://api.travis-ci.org/detailyang/awesome-cheatsheet.svg)](https://travis-ci.org/detailyang/awesome-cheatsheet)[![release](https://img.shields.io/github/release/detailyang/awesome-cheatsheet.svg)](https://github.com/detailyang/awesome-cheatsheet/releases)[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/detailyang/awesome-cheatsheet/master/LICENSE)
+![Branch master](https://img.shields.io/badge/branch-master-brightgreen.svg?style=flat-square)[![Build Status](https://api.travis-ci.org/detailyang/awesome-cheatsheet.svg)](https://travis-ci.org/detailyang/awesome-cheatsheet)[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/detailyang/awesome-cheatsheet/master/LICENSE)
 > List of useful cheatsheets
 
 ###Index
 * [Acm](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fa.md#acm)
-* [Agda](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fa.md#agda)
 * [Algorithm](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fa.md#algorithm)
 * [Android](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fa.md#android)
 * [APL](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fa.md#apl)
