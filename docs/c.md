@@ -1,6 +1,3 @@
-###c
-* [c](http://claymore.engineer.gvsu.edu/~steriana/226/C.CheatSheet.pdf)
-
 ###c-sharp
 * [core c sharp](http://www.digilife.be/quickreferences/QRC/Core%20CSharp%20and%20.NET%20Quick%20Reference.pdf)
 

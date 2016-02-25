@@ -1,5 +1,4 @@
 ###go
-* [go-lang-cheat-sheet](https://github.com/phayes/go-lang-cheat-sheet)
 * [go-lang-cheat-sheet](https://github.com/a8m/go-lang-cheat-sheet)
 * [awesome-go](https://github.com/avelino/awesome-go)
 
