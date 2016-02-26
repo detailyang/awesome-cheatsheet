@@ -12,7 +12,7 @@
 * [awesome-postgres](https://github.com/dhamaniasad/awesome-postgres)
 
 ###prolog
-* [prolog](http://www.cheatography.com/tomma156/cheat-sheets/prolog-cheatsheet/)
+* [prolog](http://www.cs.oswego.edu/~odendahl/coursework/notes/prolog/synopsis/con.html)
 
 ###python
 * [python-cheat-sheet](http://www.addedbytes.com/cheat-sheets/python-cheat-sheet/)
