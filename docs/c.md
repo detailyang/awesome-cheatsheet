@@ -3,7 +3,6 @@
 
 ###cpp
 * [c11-a-cheat-sheet-alex-sinyakov](http://isocpp.org/blog/2012/12/c11-a-cheat-sheet-alex-sinyakov)
-* [statement_list_stl_cheat_sheets](http://www.plcdev.com/statement_list_stl_cheat_sheets)
 
 ###clojure
 * [clojure](http://clojure.org/cheatsheet)
