@@ -83,6 +83,7 @@
 * [Prolog](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fp.md#prolog)
 * [Python](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fp.md#python)
     * [Python](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fp.md#python)
+    * [Python-Strtime](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fp.md#python)
     * [Django](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fp.md#django)
     * [Flask](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fp.md#flask)
     * [web2py](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fp.md#web2py)
