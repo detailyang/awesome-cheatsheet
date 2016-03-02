@@ -15,6 +15,7 @@
 * [prolog](http://www.cs.oswego.edu/~odendahl/coursework/notes/prolog/synopsis/con.html)
 
 ###python
+* [python-strfttime](https://github.com/mccutchen/strftime.org)
 * [python-cheat-sheet](http://www.addedbytes.com/cheat-sheets/python-cheat-sheet/)
 * [python feature](https://github.com/PythonCharmers/python-future)
 
