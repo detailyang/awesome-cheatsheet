@@ -7,16 +7,18 @@
 
 import re
 import sys
+import os
 
 from requests import get
 from requests.exceptions import ConnectionError, MissingSchema
 
 url_re = re.compile('.*\[.*\]\((.*)\)')
+current_dir = os.path.dirname(os.path.realpath(__file__))
 
 for i in range(ord('a'), ord('z')+1):
-    file = 'docs/{alphabet}.md'.format(alphabet=chr(i))
+    file = '{current_dir}/../docs/{alphabet}.md'.format(current_dir=current_dir, alphabet=chr(i))
     with open(file) as f:
-        for line, content in enumerate(f.readlines()):
+        for line, content in enumerate(f):
             m = re.match(url_re, content)
             if m is None:
                 continue
