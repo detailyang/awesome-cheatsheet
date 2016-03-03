@@ -28,6 +28,9 @@
 ###react-native
 * [react-native-cheat-sheet](https://github.com/refinery29/react-native-cheat-sheet)
 
+###redux
+* [redux](http://ricostacruz.com/cheatsheets/redux.html)
+
 ###angular
 * [angular2](https://angular.io/cheatsheet)
 * [angularjs](http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
