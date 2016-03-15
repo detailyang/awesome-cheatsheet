@@ -3,6 +3,8 @@
 ![Branch master](https://img.shields.io/badge/branch-master-brightgreen.svg?style=flat-square)[![Build Status](https://api.travis-ci.org/detailyang/awesome-cheatsheet.svg)](https://travis-ci.org/detailyang/awesome-cheatsheet)[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/detailyang/awesome-cheatsheet/master/LICENSE)
 > List of useful cheatsheets
 
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
+
 ###Index
 * [Acm](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fa.md#acm)
 * [Algorithm](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fa.md#algorithm)
