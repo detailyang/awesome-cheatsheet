@@ -6,3 +6,7 @@
 
 ###foratn
 * [fortran_quick_reference_cheat_crib_sheet](http://fm127.ugr.es/imnf/descargas/archivos/fortran_quick_reference_cheat_crib_sheet.pdf)
+
+
+###fish
+* [fish](https://fishshell.com/docs/current/commands.html)
