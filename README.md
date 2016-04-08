@@ -34,6 +34,7 @@
 * [F#](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Ff.md#f-sharp)
 * [Flex](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Ff.md#flex)
 * [Fortran](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Ff.md#fortran)
+* [Fish](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Ff.md#fish)
 * [Git](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fg.md#git)
 * [Go](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fg.md#go)
 * [Hadoop](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fh.md#hadoop)
