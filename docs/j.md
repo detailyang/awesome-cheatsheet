@@ -7,6 +7,7 @@
 
 ###javascript
 * [javascript-cheat-sheet](http://www.addedbytes.com/cheat-sheets/javascript-cheat-sheet/)
+* [javascript-design-pattern](https://github.com/nnupoor/js_designpatterns)
 * [grunt node bower](http://jessewarden.com/2013/09/node-bower-grunt-n00b-cheat-sheet.html)
 * [gulp](https://github.com/osscafe/gulp-cheatsheet)
 
