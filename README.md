@@ -47,6 +47,7 @@
 * [JavaScript](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fj.md#javascript)
     * [React](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fj.md#react)
     * [React-Native](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fj.md#react-native)
+    * [[javascript-design-pattern](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fj.md#javascript)
     * [Redux](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fj.md#redux)
     * [Angular.js](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fj.md#angular)
     * [Backbone.js](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fj.md#backbonejs)
