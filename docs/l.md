@@ -1,5 +1,6 @@
 ###linux
 * [linux-command-line-cheat-sheet](http://www.addedbytes.com/cheat-sheets/linux)
+* [linux-troubleshooting-cheatsheet](https://sysdig.com/blog/linux-troubleshooting-cheatsheet/)
 
 ###latex
 * [latexsheet](http://www.stdout.org/~winston/latex/latexsheet.pdf)
