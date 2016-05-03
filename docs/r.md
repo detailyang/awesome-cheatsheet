@@ -8,6 +8,9 @@
 ###racket
 * [racket](http://docs.racket-lang.org/guide/)
 
+###ragel
+* [ragel-cheat-sheet](https://github.com/calio/ragel-cheat-sheet)
+
 ###rebol
 * [rebol](http://rebol.desajn.net/cheatsheet.html)
 
