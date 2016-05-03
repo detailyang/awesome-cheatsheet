@@ -93,6 +93,7 @@
     * [Flask](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fp.md#flask)
     * [web2py](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fp.md#web2py)
 * [R](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fr.md#r)
+* [Ragel](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fr.md#ragel)
 * [Racket](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fr.md#racket)
 * [REBOL](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fr.md#rebol)
 * [ROS](https://github.com/detailyang/awesome-cheatsheet/blob/master/docs%2Fr.md#ros)
