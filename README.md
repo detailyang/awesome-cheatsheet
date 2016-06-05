@@ -55,6 +55,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [emoji-cheat-sheet](https://github.com/arvida/emoji-cheat-sheet.com)
 - [f#-cheat-sheet](http://dungpa.github.io/fsharp-cheatsheet)
 - [golang-cheat-sheet](https://github.com/a8m/go-lang-cheat-sheet)
+    - [Cheat sheet for some of the common concurrent flows in Go](https://github.com/rakyll/coop)
 - [haskell-cheat-sheet](http://blog.codeslower.com/static/CheatSheet.pdf)
 - [lisp-cheat-sheet](http://faculty.smcm.edu/acjamieson/s13/LispCheatSheet.pdf)
 - [lua-cheat-sheet](http://lua-users.org/files/wiki_insecure/users/thomasl/luarefv51single.pdf)
