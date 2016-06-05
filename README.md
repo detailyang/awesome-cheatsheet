@@ -98,7 +98,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [ember-js](http://www.cheatography.com/mwore/cheat-sheets/ember-js/)
 - [nodejs](https://gist.github.com/LeCoupa/985b82968d8285987dc3)
 - [jquery](http://oscarotero.com/jquery/)
-- [jquery](http://lab.abhinayrathore.com/jquery-cheatsheet/)
+    - [jquery-cheatsheet](http://lab.abhinayrathore.com/jquery-cheatsheet/)
 - [underscore-cheat-sheet](http://f.cl.ly/items/093o0l2Y3u130y0W0c0x/underscore-cheat-sheet.pdf)
 - [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
 - [webpack](https://github.com/petehunt/webpack-howto)
