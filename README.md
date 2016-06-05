@@ -109,6 +109,8 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [web2py](https://dl.dropboxusercontent.com/u/18065445/web2py/web2py_cheatsheet.pdf)
 - [ror](http://www.addedbytes.com/cheat-sheets/ruby-on-rails-cheat-sheet/)
 
+#big-data
+- [machine-learning-cheat-sheet](https://github.com/soulmachine/machine-learning-cheat-sheet)
 
 ##Databases
 
