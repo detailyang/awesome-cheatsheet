@@ -3,7 +3,7 @@
 # @Author: detailyang
 # @Date:   2016-02-25 11:23:59
 # @Last Modified by:   detailyang
-# @Last Modified time: 2016-06-05 22:22:16
+# @Last Modified time: 2016-06-05 22:26:44
 
 import re
 import sys
@@ -15,7 +15,7 @@ from requests.exceptions import ConnectionError, MissingSchema
 url_re = re.compile('.*\[.*\]\((.*)\)')
 current_dir = os.path.dirname(os.path.realpath(__file__))
 
-file = '{current_dir}/../README.md'.format(current_dir=current_dir, alphabet=chr(i))
+file = '{current_dir}/../README.md'.format(current_dir=current_dir)
 with open(file) as f:
     for line, content in enumerate(f):
         m = re.match(url_re, content)
