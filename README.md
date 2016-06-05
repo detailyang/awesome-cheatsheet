@@ -5,6 +5,9 @@
 
 Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://github.com/sindresorhus/awesome) and improved by these **[amazing contributors](https://github.com/detailyang/awesome-cheatsheet/graphs/contributors)**.
 
+#### *If you see a link here is not fit, you can fix it or provide a better link by submitting a [PR](https://github.com/detailyang/awesome-cheatsheet/edit/master/README.md) to improve this file. Thank you!*
+
+
 ## Table of Contents
 
 - [Platforms](#platforms)
