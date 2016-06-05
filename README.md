@@ -148,6 +148,10 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [svn](http://www.abbeyworkshop.com/howto/misc/svn01/)
 - [sed-stream-editor-cheat-sheet](http://www.catonmat.net/blog/sed-stream-editor-cheat-sheet/)
 
+##Media
+
+- [favicon-cheat-sheet](https://github.com/audreyr/favicon-cheat-sheet)
+
 ##Security
 
 - [HTML5 Security Cheatsheet](https://github.com/cure53/H5SC)
