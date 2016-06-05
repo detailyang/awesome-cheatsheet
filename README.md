@@ -161,3 +161,4 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 ##Miscellaneous
 
 - [math-as-code](https://github.com/Jam3/math-as-code)
+- [easings.net](https://github.com/ai/easings.net)
