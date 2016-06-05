@@ -81,6 +81,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [ragel-cheat-sheet](https://github.com/calio/ragel-cheat-sheet)
 - [rebol-cheat-sheet](http://rebol.desajn.net/cheatsheet.html)
 - [ruby-cheat-sheet](https://github.com/brennovich/cheat-ruby-sheets)
+    - [A collection of Ruby Net::HTTP examples](https://github.com/augustl/net-http-cheat-sheet)
 - [rust-cheat-sheet](http://static.rust-lang.org/doc/0.9/complement-cheatsheet.html)
 - [scala-cheat-sheet](http://docs.scala-lang.org/cheatsheets/)
 - [scheme-cheat-sheet](http://courses.cs.washington.edu/courses/cse341/02wi/scheme/cheat-sheet.html)
