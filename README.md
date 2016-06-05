@@ -3,7 +3,7 @@
 ![Branch master](https://img.shields.io/badge/branch-master-brightgreen.svg?style=flat-square)[![Build Status](https://api.travis-ci.org/detailyang/awesome-cheatsheet.svg)](https://travis-ci.org/detailyang/awesome-cheatsheet)[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/detailyang/awesome-cheatsheet/master/LICENSE)
 > List of useful cheatsheets
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
+Inspired by [@sindresorhus](https://github.com/sindresorhus)' [awesome][sindresorhus] and improved by these **[amazing contributors](https://github.com/veggiemonk/awesome-docker/graphs/contributors)**.
 
 ## Table of Contents
 
