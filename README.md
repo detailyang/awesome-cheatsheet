@@ -168,3 +168,4 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [UI-Testing-Cheat-Sheet](https://github.com/joemasilotti/UI-Testing-Cheat-Sheet)
 - [math-as-code](https://github.com/Jam3/math-as-code)
 - [easings.net](https://github.com/ai/easings.net)
+- [MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
