@@ -158,3 +158,6 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [Penetration Testing/Security Cheatsheets](https://github.com/jshaw87/Cheatsheets)
 - [oauthsecurity](https://github.com/homakov/oauthsecurity)
 
+##Miscellaneous
+
+- [math-as-code](https://github.com/Jam3/math-as-code)
