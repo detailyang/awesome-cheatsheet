@@ -37,6 +37,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
     - [dockerfiles](https://github.com/jfrazelle)
 - [ios-cheat-sheet](https://github.com/Avocarrot/ios-cheatsheet)
     - [iOS-App-Performance-Cheatsheet](https://github.com/danielamitay/iOS-App-Performance-Cheatsheet)
+    - [UI-Testing-Cheat-Sheet](https://github.com/joemasilotti/UI-Testing-Cheat-Sheet)
 - [saltstack](https://github.com/saltstack/salt/wiki/Cheat-Sheet)
 
 
@@ -165,7 +166,6 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 
 ##Miscellaneous
 
-- [UI-Testing-Cheat-Sheet](https://github.com/joemasilotti/UI-Testing-Cheat-Sheet)
 - [math-as-code](https://github.com/Jam3/math-as-code)
 - [easings.net](https://github.com/ai/easings.net)
 - [MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
