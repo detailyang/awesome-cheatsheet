@@ -71,7 +71,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
     - [swift design patterns](https://github.com/ochococo/Design-Patterns-In-Swift)
 - [tcl-cheat-sheet](http://wiki.tcl.tk/10710)
 - [typescript-cheat-sheet](http://www.typescriptlang.org/Handbook)
-- [oc-cheat-sheet](https://github.com/iwasrobbed/Objective-C-CheatSheet)
+- [objective-c-cheat-sheet](https://github.com/iwasrobbed/Objective-C-CheatSheet)
 - [ocaml-cheat-sheet](http://ocaml.org/docs/cheat_sheets.html)
 - [python-cheat-sheet](http://www.addedbytes.com/cheat-sheets/python-cheat-sheet/)
     - [python feature](https://github.com/PythonCharmers/python-future)
