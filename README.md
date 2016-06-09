@@ -52,6 +52,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [dart-cheat-sheet](http://dartlangfr.net/dart-cheat-sheet/)
 - [delphi-cheat-sheet](http://www.cheat-sheets.org/saved-copy/dquick.pdf)
 - [dotnet-cheat-sheet](http://refcardz.dzone.com/refcardz/coredotnet)
+- [elixir-cheat-sheet](https://media.pragprog.com/titles/elixir/ElixirCheat.pdf)
 - [erlang-cheat-sheet](http://www.cheat-sheets.org/saved-copy/Erlang.CheatSheet(1.0).pdf)
 - [emoji-cheat-sheet](https://github.com/arvida/emoji-cheat-sheet.com)
 - [f#-cheat-sheet](http://dungpa.github.io/fsharp-cheatsheet)
