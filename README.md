@@ -131,10 +131,17 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [regular-expressions](http://refcardz.dzone.com/refcardz/regular-expressions)
 - [rest-foundations-restful](http://refcardz.dzone.com/refcardz/rest-foundations-restful)
 
+## Editors
+
+- [a_vi_vim_graphical_cheat_sheet_tutorial](http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html)
+- [GNU Emacs](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf)
+    - [Paredit Cheatsheet](https://www.emacswiki.org/emacs/PareditCheatsheet)
+- IntellJ IDEA
+    - [Windows/Linux](https://resources.jetbrains.com/assets/products/intellij-idea/IntelliJIDEA_ReferenceCard.pdf)
+    - [Mac OS X](https://resources.jetbrains.com/assets/products/intellij-idea/IntelliJIDEA_ReferenceCard_mac.pdf)
 
 ## Tools
 
-- [a_vi_vim_graphical_cheat_sheet_tutorial](http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html)
 - [awk-nawk-and-gawk-cheat-sheet](http://www.catonmat.net/blog/awk-nawk-and-gawk-cheat-sheet/)
 - [curl](https://github.com/bagder/curl-cheat-sheet)
 - [Git Cheat Sheet and Git Flow](https://github.com/arslanbilal/git-cheat-sheet)
