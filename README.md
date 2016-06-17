@@ -3,7 +3,10 @@
 ![Branch master](https://img.shields.io/badge/branch-master-brightgreen.svg?style=flat-square)[![Build Status](https://api.travis-ci.org/detailyang/awesome-cheatsheet.svg)](https://travis-ci.org/detailyang/awesome-cheatsheet)[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/detailyang/awesome-cheatsheet/master/LICENSE)
 > List of useful cheatsheets
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
+Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://github.com/sindresorhus/awesome) and improved by these **[amazing contributors](https://github.com/detailyang/awesome-cheatsheet/graphs/contributors)**.
+
+#### *If you see a link here is not fit, you can fix it or provide a better link by submitting a [PR](https://github.com/detailyang/awesome-cheatsheet/edit/master/README.md) to improve this file. Thank you!*
+
 
 ## Table of Contents
 
@@ -34,6 +37,7 @@
     - [dockerfiles](https://github.com/jfrazelle)
 - [ios-cheat-sheet](https://github.com/Avocarrot/ios-cheatsheet)
     - [iOS-App-Performance-Cheatsheet](https://github.com/danielamitay/iOS-App-Performance-Cheatsheet)
+    - [UI-Testing-Cheat-Sheet](https://github.com/joemasilotti/UI-Testing-Cheat-Sheet)
 - [saltstack](https://github.com/saltstack/salt/wiki/Cheat-Sheet)
 
 
@@ -48,10 +52,12 @@
 - [dart-cheat-sheet](http://dartlangfr.net/dart-cheat-sheet/)
 - [delphi-cheat-sheet](http://www.cheat-sheets.org/saved-copy/dquick.pdf)
 - [dotnet-cheat-sheet](http://refcardz.dzone.com/refcardz/coredotnet)
+- [elixir-cheat-sheet](https://media.pragprog.com/titles/elixir/ElixirCheat.pdf)
 - [erlang-cheat-sheet](http://www.cheat-sheets.org/saved-copy/Erlang.CheatSheet(1.0).pdf)
 - [emoji-cheat-sheet](https://github.com/arvida/emoji-cheat-sheet.com)
 - [f#-cheat-sheet](http://dungpa.github.io/fsharp-cheatsheet)
 - [golang-cheat-sheet](https://github.com/a8m/go-lang-cheat-sheet)
+    - [Cheat sheet for some of the common concurrent flows in Go](https://github.com/rakyll/coop)
 - [haskell-cheat-sheet](http://blog.codeslower.com/static/CheatSheet.pdf)
 - [lisp-cheat-sheet](http://faculty.smcm.edu/acjamieson/s13/LispCheatSheet.pdf)
 - [lua-cheat-sheet](http://lua-users.org/files/wiki_insecure/users/thomasl/luarefv51single.pdf)
@@ -66,7 +72,7 @@
     - [swift design patterns](https://github.com/ochococo/Design-Patterns-In-Swift)
 - [tcl-cheat-sheet](http://wiki.tcl.tk/10710)
 - [typescript-cheat-sheet](http://www.typescriptlang.org/Handbook)
-- [oc-cheat-sheet](https://github.com/iwasrobbed/Objective-C-CheatSheet)
+- [objective-c-cheat-sheet](https://github.com/iwasrobbed/Objective-C-CheatSheet)
 - [ocaml-cheat-sheet](http://ocaml.org/docs/cheat_sheets.html)
 - [python-cheat-sheet](http://www.addedbytes.com/cheat-sheets/python-cheat-sheet/)
     - [python feature](https://github.com/PythonCharmers/python-future)
@@ -77,6 +83,7 @@
 - [ragel-cheat-sheet](https://github.com/calio/ragel-cheat-sheet)
 - [rebol-cheat-sheet](http://rebol.desajn.net/cheatsheet.html)
 - [ruby-cheat-sheet](https://github.com/brennovich/cheat-ruby-sheets)
+    - [A collection of Ruby Net::HTTP examples](https://github.com/augustl/net-http-cheat-sheet)
 - [rust-cheat-sheet](http://static.rust-lang.org/doc/0.9/complement-cheatsheet.html)
 - [scala-cheat-sheet](http://docs.scala-lang.org/cheatsheets/)
 - [scheme-cheat-sheet](http://courses.cs.washington.edu/courses/cse341/02wi/scheme/cheat-sheet.html)
@@ -93,7 +100,7 @@
 - [ember-js](http://www.cheatography.com/mwore/cheat-sheets/ember-js/)
 - [nodejs](https://gist.github.com/LeCoupa/985b82968d8285987dc3)
 - [jquery](http://oscarotero.com/jquery/)
-- [jquery](http://lab.abhinayrathore.com/jquery-cheatsheet/)
+    - [jquery-cheatsheet](http://lab.abhinayrathore.com/jquery-cheatsheet/)
 - [underscore-cheat-sheet](http://f.cl.ly/items/093o0l2Y3u130y0W0c0x/underscore-cheat-sheet.pdf)
 - [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
 - [webpack](https://github.com/petehunt/webpack-howto)
@@ -106,6 +113,8 @@
 - [web2py](https://dl.dropboxusercontent.com/u/18065445/web2py/web2py_cheatsheet.pdf)
 - [ror](http://www.addedbytes.com/cheat-sheets/ruby-on-rails-cheat-sheet/)
 
+#big-data
+- [machine-learning-cheat-sheet](https://github.com/soulmachine/machine-learning-cheat-sheet)
 
 ##Databases
 
@@ -122,10 +131,17 @@
 - [regular-expressions](http://refcardz.dzone.com/refcardz/regular-expressions)
 - [rest-foundations-restful](http://refcardz.dzone.com/refcardz/rest-foundations-restful)
 
+## Editors
+
+- [a_vi_vim_graphical_cheat_sheet_tutorial](http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html)
+- [GNU Emacs](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf)
+    - [Paredit Cheatsheet](https://www.emacswiki.org/emacs/PareditCheatsheet)
+- IntellJ IDEA
+    - [Windows/Linux](https://resources.jetbrains.com/assets/products/intellij-idea/IntelliJIDEA_ReferenceCard.pdf)
+    - [Mac OS X](https://resources.jetbrains.com/assets/products/intellij-idea/IntelliJIDEA_ReferenceCard_mac.pdf)
 
 ## Tools
 
-- [a_vi_vim_graphical_cheat_sheet_tutorial](http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html)
 - [awk-nawk-and-gawk-cheat-sheet](http://www.catonmat.net/blog/awk-nawk-and-gawk-cheat-sheet/)
 - [curl](https://github.com/bagder/curl-cheat-sheet)
 - [Git Cheat Sheet and Git Flow](https://github.com/arslanbilal/git-cheat-sheet)
@@ -134,7 +150,6 @@
     - [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)
     - [git-style-guide](https://github.com/agis-/git-style-guide)
     - [git-flow-cheatsheet](https://github.com/danielkummer/git-flow-cheatsheet)
-    ###linux
 - [linux-command-line-cheat-sheet](http://www.addedbytes.com/cheat-sheets/linux)
 - [latexsheet](http://www.stdout.org/~winston/latex/latexsheet.pdf)
 - [rspec](https://gist.github.com/dnagir/663876)
@@ -145,6 +160,11 @@
 - [matlab-cheatsheet](http://web.mit.edu/18.06/www/Spring09/matlab-cheatsheet.pdf)
 - [svn](http://www.abbeyworkshop.com/howto/misc/svn01/)
 - [sed-stream-editor-cheat-sheet](http://www.catonmat.net/blog/sed-stream-editor-cheat-sheet/)
+- [Cheat sheet for GDAL/OGR command-line tools](https://github.com/dwtkns/gdal-cheat-sheet)
+
+##Media
+
+- [favicon-cheat-sheet](https://github.com/audreyr/favicon-cheat-sheet)
 
 ##Security
 
@@ -152,3 +172,8 @@
 - [Penetration Testing/Security Cheatsheets](https://github.com/jshaw87/Cheatsheets)
 - [oauthsecurity](https://github.com/homakov/oauthsecurity)
 
+##Miscellaneous
+
+- [math-as-code](https://github.com/Jam3/math-as-code)
+- [easings.net](https://github.com/ai/easings.net)
+- [MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
