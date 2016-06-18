@@ -104,6 +104,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [underscore-cheat-sheet](http://f.cl.ly/items/093o0l2Y3u130y0W0c0x/underscore-cheat-sheet.pdf)
 - [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
 - [webpack](https://github.com/petehunt/webpack-howto)
+- [head tags](http://headtags.info/)
 
 ## Back-End Development
 
