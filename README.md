@@ -158,7 +158,6 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [RSpec cheatsheet](https://github.com/eliotsykes/rspec-rails-examples)
 - [terminal-mac-cheatsheet](https://github.com/0nn0/terminal-mac-cheatsheet)
 - [tmux](https://gist.github.com/andreyvit/2921703)
-- [tmuxcheatsheet](http://tmuxcheatsheet.com/)
 - [matlab-cheatsheet](http://web.mit.edu/18.06/www/Spring09/matlab-cheatsheet.pdf)
 - [svn](http://www.abbeyworkshop.com/howto/misc/svn01/)
 - [sed-stream-editor-cheat-sheet](http://www.catonmat.net/blog/sed-stream-editor-cheat-sheet/)
