@@ -66,6 +66,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
     - [javascript-design-pattern](https://github.com/nnupoor/js_designpatterns)
 - [shell-cheat-sheet](https://github.com/NisreenFarhoud/Bash-Cheatsheet)
     - [bash cheat sheet](http://cli.learncodethehardway.org/bash_cheat_sheet.pdf)
+        - [bash redirections](https://github.com/pkrumins/bash-redirections-cheat-sheet)
     - [fish](https://fishshell.com/docs/current/commands.html)
 - [swift cheatsheet](https://github.com/iwasrobbed/Swift-CheatSheet)
     - [Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds)
