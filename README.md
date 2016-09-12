@@ -61,6 +61,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [haskell-cheat-sheet](http://blog.codeslower.com/static/CheatSheet.pdf)
 - [lisp-cheat-sheet](http://faculty.smcm.edu/acjamieson/s13/LispCheatSheet.pdf)
 - [lua-cheat-sheet](http://lua-users.org/files/wiki_insecure/users/thomasl/luarefv51single.pdf)
+- [java-cheat-sheet](http://mindprod.com/jgloss/jcheat.html)
 - [javascript-cheat-sheet](http://www.addedbytes.com/cheat-sheets/javascript-cheat-sheet/)
     - [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
     - [javascript-design-pattern](https://github.com/nnupoor/js_designpatterns)
