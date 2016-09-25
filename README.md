@@ -111,7 +111,6 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 
 ## Back-End Development
 
-- [DjangoCheatSheet](https://code.djangoproject.com/wiki/DjangoCheatSheet)
 - [flask](https://docs.google.com/file/d/1pnwfq8v5Ph4Xn8ttv9P_TLnrRbT9-S_v-KdZiEcx64vlGYkC0SoMfZOs0NYN/edit?usp=drive_web)
 - [laravel-cheatsheet](https://github.com/jesseobrien/laravel-cheatsheet)
 - [web2py](https://dl.dropboxusercontent.com/u/18065445/web2py/web2py_cheatsheet.pdf)
