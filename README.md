@@ -60,6 +60,8 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [golang-cheat-sheet](https://github.com/a8m/go-lang-cheat-sheet)
     - [Cheat sheet for some of the common concurrent flows in Go](https://github.com/rakyll/coop)
 - [haskell-cheat-sheet](http://blog.codeslower.com/static/CheatSheet.pdf)
+- [java-cheat-sheet](http://introcs.cs.princeton.edu/java/11cheatsheet/)
+    - [java8-cheat-sheet](https://github.com/BafS/Java8-CheatSheet)
 - [lisp-cheat-sheet](http://faculty.smcm.edu/acjamieson/s13/LispCheatSheet.pdf)
 - [lua-cheat-sheet](http://lua-users.org/files/wiki_insecure/users/thomasl/luarefv51single.pdf)
 - [javascript-cheat-sheet](http://www.addedbytes.com/cheat-sheets/javascript-cheat-sheet/)
