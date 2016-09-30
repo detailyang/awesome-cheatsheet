@@ -48,6 +48,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [c#-cheat-sheet ](http://www.digilife.be/quickreferences/QRC/Core%20CSharp%20and%20.NET%20Quick%20Reference.pdf)
 - [cpp-cheat-sheet](http://isocpp.org/blog/2012/12/c11-a-cheat-sheet-alex-sinyakov)
 - [clojure-cheat-sheet](http://clojure.org/cheatsheet)
+- [clojurescript-cheat-sheet](http://cljs.info/cheatsheet)
 - [css3-cheat-sheet](http://media.smashingmagazine.com/wp-content/uploads/images/css3-cheat-sheet/css3-cheat-sheet.pdf)
 - [dart-cheat-sheet](http://dartlangfr.net/dart-cheat-sheet/)
 - [delphi-cheat-sheet](http://www.cheat-sheets.org/saved-copy/dquick.pdf)
