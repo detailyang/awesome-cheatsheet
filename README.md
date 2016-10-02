@@ -157,7 +157,6 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
     - [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)
     - [git-style-guide](https://github.com/agis-/git-style-guide)
     - [git-flow-cheatsheet](https://github.com/danielkummer/git-flow-cheatsheet)
-- [linux-command-line-cheat-sheet](http://www.addedbytes.com/cheat-sheets/linux)
 - [latexsheet](http://www.stdout.org/~winston/latex/latexsheet.pdf)
 - [rspec](https://gist.github.com/dnagir/663876)
 - [RSpec cheatsheet](https://github.com/eliotsykes/rspec-rails-examples)
