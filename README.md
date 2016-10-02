@@ -157,7 +157,6 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
     - [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)
     - [git-style-guide](https://github.com/agis-/git-style-guide)
     - [git-flow-cheatsheet](https://github.com/danielkummer/git-flow-cheatsheet)
-- [linux-command-line-cheat-sheet](http://www.addedbytes.com/cheat-sheets/linux)
 - [latexsheet](http://www.stdout.org/~winston/latex/latexsheet.pdf)
 - [rspec](https://gist.github.com/dnagir/663876)
 - [RSpec cheatsheet](https://github.com/eliotsykes/rspec-rails-examples)
@@ -168,6 +167,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [sed-stream-editor-cheat-sheet](http://www.catonmat.net/blog/sed-stream-editor-cheat-sheet/)
 - [Cheat sheet for GDAL/OGR command-line tools](https://github.com/dwtkns/gdal-cheat-sheet)
 - [dtrace and stap](http://myaut.github.io/dtrace-stap-book/dtrace-stap-cheatsheet.pdf)
+- [mac-command-line-cheatsheet](https://github.com/herrbischoff/awesome-osx-command-line)
 
 ##Media
 
