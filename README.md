@@ -43,6 +43,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 
 ## Programming Languages
 
+- [Ada-cheat-sheet](http://www.digilife.be/quickreferences/QRC/Ada%20Reference%20Card.pdf)
 - [assembly-cheat-sheet](http://www.jegerlehner.ch/intel/)
 - [coffeescript_cheatsheet](https://github.com/icebob/coffeescript_cheatsheet/)
 - [c#-cheat-sheet ](http://www.digilife.be/quickreferences/QRC/Core%20CSharp%20and%20.NET%20Quick%20Reference.pdf)
