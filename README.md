@@ -105,7 +105,6 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
 - [jquery](http://oscarotero.com/jquery/)
     - [jquery-cheatsheet](http://lab.abhinayrathore.com/jquery-cheatsheet/)
-- [nodejs](https://gist.github.com/LeCoupa/985b82968d8285987dc3)
 - [react-cheatsheet](http://reactcheatsheet.com/)
 - [react-native-cheat-sheet](https://github.com/refinery29/react-native-cheat-sheet)
 - [redux](http://ricostacruz.com/cheatsheets/redux.html)
@@ -119,6 +118,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [laravel-cheatsheet](https://github.com/jesseobrien/laravel-cheatsheet)
 - [ror](http://www.addedbytes.com/cheat-sheets/ruby-on-rails-cheat-sheet/)
 - [web2py](https://dl.dropboxusercontent.com/u/18065445/web2py/web2py_cheatsheet.pdf)
+- [nodejs](https://gist.github.com/LeCoupa/985b82968d8285987dc3)
 
 ## Big Data
 - [machine-learning-cheat-sheet](https://github.com/soulmachine/machine-learning-cheat-sheet)
