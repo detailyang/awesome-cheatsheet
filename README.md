@@ -134,6 +134,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 
 - [acm-cheat-sheet](https://github.com/soulmachine/acm-cheat-sheet)
 - [bigo](http://bigocheatsheet.com/)
+- [Theoretical Computer Science Cheat Sheet](http://www.tug.org/texshowcase/cheat.pdf)
 - [regular-expression-cheat-sheet](https://github.com/niklongstone/regular-expression-cheat-sheet)
 - [rest-foundations-restful](http://refcardz.dzone.com/refcardz/rest-foundations-restful)
 
