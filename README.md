@@ -63,20 +63,11 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [haskell-cheat-sheet](http://blog.codeslower.com/static/CheatSheet.pdf)
 - [java-cheat-sheet](http://introcs.cs.princeton.edu/java/11cheatsheet/)
     - [java8-cheat-sheet](https://github.com/BafS/Java8-CheatSheet)
-- [lisp-cheat-sheet](http://faculty.smcm.edu/acjamieson/s13/LispCheatSheet.pdf)
-- [lua-cheat-sheet](http://lua-users.org/files/wiki_insecure/users/thomasl/luarefv51single.pdf)
 - [javascript-cheat-sheet](http://www.addedbytes.com/cheat-sheets/javascript-cheat-sheet/)
     - [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
     - [javascript-design-pattern](https://github.com/nnupoor/js_designpatterns)
-- [shell-cheat-sheet](https://github.com/NisreenFarhoud/Bash-Cheatsheet)
-    - [bash cheat sheet](http://cli.learncodethehardway.org/bash_cheat_sheet.pdf)
-        - [bash redirections](https://github.com/pkrumins/bash-redirections-cheat-sheet)
-    - [fish](https://fishshell.com/docs/current/commands.html)
-- [swift cheatsheet](https://github.com/iwasrobbed/Swift-CheatSheet)
-    - [Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds)
-    - [swift design patterns](https://github.com/ochococo/Design-Patterns-In-Swift)
-- [tcl-cheat-sheet](http://wiki.tcl.tk/10710)
-- [typescript-cheat-sheet](http://www.typescriptlang.org/Handbook)
+- [lisp-cheat-sheet](http://faculty.smcm.edu/acjamieson/s13/LispCheatSheet.pdf)
+- [lua-cheat-sheet](http://lua-users.org/files/wiki_insecure/users/thomasl/luarefv51single.pdf)
 - [objective-c-cheat-sheet](https://github.com/iwasrobbed/Objective-C-CheatSheet)
 - [ocaml-cheat-sheet](http://ocaml.org/docs/cheat_sheets.html)
 - [python-cheat-sheet](http://www.addedbytes.com/cheat-sheets/python-cheat-sheet/)
@@ -94,22 +85,31 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [rust-cheat-sheet](http://static.rust-lang.org/doc/0.9/complement-cheatsheet.html)
 - [scala-cheat-sheet](http://docs.scala-lang.org/cheatsheets/)
 - [scheme-cheat-sheet](http://courses.cs.washington.edu/courses/cse341/02wi/scheme/cheat-sheet.html)
+- [shell-cheat-sheet](https://github.com/NisreenFarhoud/Bash-Cheatsheet)
+    - [bash cheat sheet](http://cli.learncodethehardway.org/bash_cheat_sheet.pdf)
+        - [bash redirections](https://github.com/pkrumins/bash-redirections-cheat-sheet)
+    - [fish](https://fishshell.com/docs/current/commands.html)
 - [smalltalk-cheat-sheet](http://stephane.ducasse.free.fr/Teaching/0809Turino/st-cheatsheet.pdf)
+- [swift cheatsheet](https://github.com/iwasrobbed/Swift-CheatSheet)
+    - [Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds)
+    - [swift design patterns](https://github.com/ochococo/Design-Patterns-In-Swift)
+- [tcl-cheat-sheet](http://wiki.tcl.tk/10710)
+- [typescript-cheat-sheet](http://www.typescriptlang.org/Handbook)
 
 ## Front-End Development
 
+- [angular2](https://angular.io/cheatsheet)
+- [angularjs](http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
 - [backbone-cheatsheet](http://www.igloolab.com/downloads/backbone-cheatsheet.pdf)
+- [ember-js](http://www.cheatography.com/mwore/cheat-sheets/ember-js/)
+- [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
+- [jquery](http://oscarotero.com/jquery/)
+    - [jquery-cheatsheet](http://lab.abhinayrathore.com/jquery-cheatsheet/)
+- [nodejs](https://gist.github.com/LeCoupa/985b82968d8285987dc3)
 - [react-cheatsheet](http://reactcheatsheet.com/)
 - [react-native-cheat-sheet](https://github.com/refinery29/react-native-cheat-sheet)
 - [redux](http://ricostacruz.com/cheatsheets/redux.html)
-- [angular2](https://angular.io/cheatsheet)
-- [angularjs](http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
-- [ember-js](http://www.cheatography.com/mwore/cheat-sheets/ember-js/)
-- [nodejs](https://gist.github.com/LeCoupa/985b82968d8285987dc3)
-- [jquery](http://oscarotero.com/jquery/)
-    - [jquery-cheatsheet](http://lab.abhinayrathore.com/jquery-cheatsheet/)
 - [underscore-cheat-sheet](http://f.cl.ly/items/093o0l2Y3u130y0W0c0x/underscore-cheat-sheet.pdf)
-- [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
 - [webpack](https://github.com/petehunt/webpack-howto)
 - [\<head> Cheat Sheet](http://gethead.info/)
 
@@ -117,8 +117,8 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 
 - [flask](https://docs.google.com/file/d/1pnwfq8v5Ph4Xn8ttv9P_TLnrRbT9-S_v-KdZiEcx64vlGYkC0SoMfZOs0NYN/edit?usp=drive_web)
 - [laravel-cheatsheet](https://github.com/jesseobrien/laravel-cheatsheet)
-- [web2py](https://dl.dropboxusercontent.com/u/18065445/web2py/web2py_cheatsheet.pdf)
 - [ror](http://www.addedbytes.com/cheat-sheets/ruby-on-rails-cheat-sheet/)
+- [web2py](https://dl.dropboxusercontent.com/u/18065445/web2py/web2py_cheatsheet.pdf)
 
 ## Big Data
 - [machine-learning-cheat-sheet](https://github.com/soulmachine/machine-learning-cheat-sheet)
@@ -126,9 +126,9 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 ##Databases
 
 - [mysql-cheat-sheet](http://www.addedbytes.com/cheat-sheets/mysql-cheat-sheet/)
-- [sql-join-cheat-sheet](http://coolshell.cn/articles/3463.html)
 - [Oracle_Programming](http://en.wikibooks.org/wiki/Oracle_Programming/SQL_Cheatsheet)
 - [postgresql](http://refcardz.dzone.com/refcardz/essential-postgresql)
+- [sql-join-cheat-sheet](http://coolshell.cn/articles/3463.html)
 
 ## Theory
 
@@ -152,6 +152,8 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 
 - [awk-nawk-and-gawk-cheat-sheet](http://www.catonmat.net/blog/awk-nawk-and-gawk-cheat-sheet/)
 - [curl](https://github.com/bagder/curl-cheat-sheet)
+- [dtrace and stap](http://myaut.github.io/dtrace-stap-book/dtrace-stap-cheatsheet.pdf)
+- [GDAL/OGR command-line tools](https://github.com/dwtkns/gdal-cheat-sheet)
 - [Git Cheat Sheet and Git Flow](https://github.com/arslanbilal/git-cheat-sheet)
     - [git_cheat_sheet](http://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf)
     - [git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet)
@@ -159,16 +161,14 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
     - [git-style-guide](https://github.com/agis-/git-style-guide)
     - [git-flow-cheatsheet](https://github.com/danielkummer/git-flow-cheatsheet)
 - [latexsheet](http://www.stdout.org/~winston/latex/latexsheet.pdf)
+- [mac-command-line-cheatsheet](https://github.com/herrbischoff/awesome-osx-command-line)
+- [matlab-cheatsheet](http://web.mit.edu/18.06/www/Spring09/matlab-cheatsheet.pdf)
 - [rspec](https://gist.github.com/dnagir/663876)
 - [RSpec cheatsheet](https://github.com/eliotsykes/rspec-rails-examples)
-- [terminal-mac-cheatsheet](https://github.com/0nn0/terminal-mac-cheatsheet)
-- [tmux](https://gist.github.com/andreyvit/2921703)
-- [matlab-cheatsheet](http://web.mit.edu/18.06/www/Spring09/matlab-cheatsheet.pdf)
 - [svn](http://www.abbeyworkshop.com/howto/misc/svn01/)
 - [sed-stream-editor-cheat-sheet](http://www.catonmat.net/blog/sed-stream-editor-cheat-sheet/)
-- [Cheat sheet for GDAL/OGR command-line tools](https://github.com/dwtkns/gdal-cheat-sheet)
-- [dtrace and stap](http://myaut.github.io/dtrace-stap-book/dtrace-stap-cheatsheet.pdf)
-- [mac-command-line-cheatsheet](https://github.com/herrbischoff/awesome-osx-command-line)
+- [terminal-mac-cheatsheet](https://github.com/0nn0/terminal-mac-cheatsheet)
+- [tmux](https://gist.github.com/andreyvit/2921703)
 
 ##Media
 
@@ -182,6 +182,6 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 
 ##Miscellaneous
 
-- [math-as-code](https://github.com/Jam3/math-as-code)
 - [easings.net](https://github.com/ai/easings.net)
+- [math-as-code](https://github.com/Jam3/math-as-code)
 - [MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
