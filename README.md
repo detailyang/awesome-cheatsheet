@@ -153,6 +153,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [MarkDown Cheat Sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 - [Eclipse](https://github.com/pellaton/eclipse-cheatsheet)
 - [Atom](https://github.com/nwinkler/atom-keyboard-shortcuts)
+- [NetBeans](https://netbeans.org/project_downloads/usersguide/shortcuts-80.pdf)
 
 ## Tools
 
