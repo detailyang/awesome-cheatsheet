@@ -127,6 +127,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 
 ##Databases
 
+- [MongoDb-cheat-sheet](https://github.com/leojavier/MongoDb-cheat-sheet)
 - [mysql-cheat-sheet](http://www.addedbytes.com/cheat-sheets/mysql-cheat-sheet/)
 - [Oracle_Programming](http://en.wikibooks.org/wiki/Oracle_Programming/SQL_Cheatsheet)
 - [postgresql](http://refcardz.dzone.com/refcardz/essential-postgresql)
