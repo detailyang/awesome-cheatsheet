@@ -154,6 +154,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [Eclipse](https://github.com/pellaton/eclipse-cheatsheet)
 - [Atom](https://github.com/nwinkler/atom-keyboard-shortcuts)
 - [NetBeans](https://netbeans.org/project_downloads/usersguide/shortcuts-80.pdf)
+- [Sublime Text 3](https://www.shortcutfoo.com/app/dojos/sublime-text-3-win/cheatsheet)
 
 ## Tools
 
