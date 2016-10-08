@@ -113,6 +113,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [underscore-cheat-sheet](http://f.cl.ly/items/093o0l2Y3u130y0W0c0x/underscore-cheat-sheet.pdf)
 - [webpack](https://github.com/petehunt/webpack-howto)
 - [\<head> Cheat Sheet](http://gethead.info/)
+- [page-load Cheat Sheet](https://developers.google.com/speed/docs/insights/about)
 - [Bootstrap 4](https://hackerthemes.com/bootstrap-cheatsheet/)
 
 ## Back-End Development
