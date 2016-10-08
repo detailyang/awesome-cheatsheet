@@ -114,6 +114,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [webpack](https://github.com/petehunt/webpack-howto)
 - [\<head> Cheat Sheet](http://gethead.info/)
 - [Bootstrap 4](https://hackerthemes.com/bootstrap-cheatsheet/)
+- [HTML5](https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/html5-cheat-sheet/html5-cheat-sheet.pdf)
 
 ## Back-End Development
 
