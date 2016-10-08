@@ -135,6 +135,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [Oracle_Programming](http://en.wikibooks.org/wiki/Oracle_Programming/SQL_Cheatsheet)
 - [postgresql](http://refcardz.dzone.com/refcardz/essential-postgresql)
 - [sql-join-cheat-sheet](http://coolshell.cn/articles/3463.html)
+- [SQL](http://www.sql-tutorial.net/sql-cheat-sheet.pdf)
 
 ## Theory
 
