@@ -184,6 +184,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [sed-stream-editor-cheat-sheet](http://www.catonmat.net/blog/sed-stream-editor-cheat-sheet/)
 - [terminal-mac-cheatsheet](https://github.com/0nn0/terminal-mac-cheatsheet)
 - [tmux](https://gist.github.com/andreyvit/2921703)
+- [Unix Toolbox](http://cb.vu/unixtoolbox.xhtml) (also PDF available)
 
 ##Media
 
