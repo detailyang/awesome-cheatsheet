@@ -46,6 +46,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [Ada-cheat-sheet](http://www.digilife.be/quickreferences/QRC/Ada%20Reference%20Card.pdf)
 - [assembly-cheat-sheet](http://www.jegerlehner.ch/intel/)
 - [coffeescript_cheatsheet](https://github.com/icebob/coffeescript_cheatsheet/)
+- [c-ansi-cheat-sheet](http://www.digilife.be/quickreferences/qrc/c%20reference%20card%20(ansi)%202.2.pdf)
 - [c#-cheat-sheet ](http://www.digilife.be/quickreferences/QRC/Core%20CSharp%20and%20.NET%20Quick%20Reference.pdf)
 - [cpp-cheat-sheet](http://isocpp.org/blog/2012/12/c11-a-cheat-sheet-alex-sinyakov)
 - [clojure-cheat-sheet](http://clojure.org/cheatsheet)
