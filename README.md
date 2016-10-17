@@ -136,6 +136,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 
 ##Databases
 
+- [CouchDB Cheatsheet](http://wiki.apache.org/couchdb/API_Cheatsheet)
 - [MongoDb-cheat-sheet](https://github.com/leojavier/MongoDb-cheat-sheet)
 - [mysql-cheat-sheet](http://www.addedbytes.com/cheat-sheets/mysql-cheat-sheet/)
 - [Oracle_Programming](http://en.wikibooks.org/wiki/Oracle_Programming/SQL_Cheatsheet)
