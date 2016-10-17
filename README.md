@@ -105,8 +105,8 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [angularjs](http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
 - [backbone-cheatsheet](http://www.igloolab.com/downloads/backbone-cheatsheet.pdf)
 - [css3-cheat-sheet](http://media.smashingmagazine.com/wp-content/uploads/images/css3-cheat-sheet/css3-cheat-sheet.pdf)
-    - [SCSS cheatsheet]https://sass-cheatsheet.brunoscopelliti.com
-    - [sass/SCSS functions cheatsheet]https://gist.github.com/AllThingsSmitty/3bcc79da563df756be46
+    - [SCSS cheatsheet](https://sass-cheatsheet.brunoscopelliti.com)
+    - [sass/SCSS functions cheatsheet](https://gist.github.com/AllThingsSmitty/3bcc79da563df756be46)
 - [ember-js](http://www.cheatography.com/mwore/cheat-sheets/ember-js/)
 - [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
 - [jquery](http://oscarotero.com/jquery/)
