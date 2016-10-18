@@ -189,6 +189,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [terminal-mac-cheatsheet](https://github.com/0nn0/terminal-mac-cheatsheet)
 - [tmux](https://gist.github.com/andreyvit/2921703)
 - [Unix Toolbox](http://cb.vu/unixtoolbox.xhtml)
+- [systemtap-cheat-sheet](https://github.com/calio/systemtap-cheat-sheet)
 
 ##Media
 
