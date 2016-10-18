@@ -27,6 +27,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [Security](#security)
 - [Content Management System](#content-management-system)
 - [Miscellaneous](#miscellaneous)
+- [Operating System](#operating-System)
 
 ## Platforms
 
@@ -207,3 +208,6 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [math-as-code](https://github.com/Jam3/math-as-code)
 - [MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
 - [Network-related cheatsheets](http://packetlife.net/library/cheat-sheets/)
+
+##Operating System
+-[Linux console commands](https://www.scribd.com/doc/8461367/Linux-Console-Commands)
