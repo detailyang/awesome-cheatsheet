@@ -98,6 +98,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
     - [swift design patterns](https://github.com/ochococo/Design-Patterns-In-Swift)
 - [tcl-cheat-sheet](http://wiki.tcl.tk/10710)
 - [typescript-cheat-sheet](http://www.typescriptlang.org/Handbook)
+- [R programming](ftp://cran.r-project.org/pub/R/doc/contrib/Short-refcard.pdf)
 
 ## Front-End Development
 
