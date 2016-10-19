@@ -156,6 +156,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 
 - [a_vi_vim_graphical_cheat_sheet_tutorial](http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html)
     - [Vim Quick Reference Card](https://michaelgoerz.net/refcards/vimqrc.pdf)
+    - [Multi-language Vim Cheat Sheet](https://vim.rtorr.com/)
 - [GNU Emacs](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf)
     - [Paredit Cheatsheet](https://www.emacswiki.org/emacs/PareditCheatsheet)
 - IntellJ IDEA
