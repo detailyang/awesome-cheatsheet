@@ -183,6 +183,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [latexsheet](http://www.stdout.org/~winston/latex/latexsheet.pdf)
 - [mac-command-line-cheatsheet](https://github.com/herrbischoff/awesome-osx-command-line)
 - [matlab-cheatsheet](http://web.mit.edu/18.06/www/Spring09/matlab-cheatsheet.pdf)
+- [Octave-cheatsheet](http://ais.informatik.uni-freiburg.de/teaching/ss14/robotics/etc/cheatsheet.pdf)
 - [rspec](https://gist.github.com/dnagir/663876)
 - [RSpec cheatsheet](https://github.com/eliotsykes/rspec-rails-examples)
 - [svn](http://www.abbeyworkshop.com/howto/misc/svn01/)
