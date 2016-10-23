@@ -93,6 +93,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
         - [bash redirections](https://github.com/pkrumins/bash-redirections-cheat-sheet)
     - [fish](https://fishshell.com/docs/current/commands.html)
     - [awesome-shell](https://github.com/alebcay/awesome-shell)
+    - [oh-my-zsh cheatsheet](https://github.com/robbyrussell/oh-my-zsh/wiki/Cheatsheet)
 - [smalltalk-cheat-sheet](http://stephane.ducasse.free.fr/Teaching/0809Turino/st-cheatsheet.pdf)
 - [swift cheatsheet](https://github.com/iwasrobbed/Swift-CheatSheet)
     - [Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds)
