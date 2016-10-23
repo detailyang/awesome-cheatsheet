@@ -75,6 +75,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [python-cheat-sheet](http://www.addedbytes.com/cheat-sheets/python-cheat-sheet/)
     - [Python Cheat Sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
     - [Python Cheat Sheet](https://docs.google.com/file/d/0B9VT_L2CDnKvODYyNTc5NjktYmMyOC00NDFkLTliNTctMzQzMTAzYjUyYmYy/view?pli=1)
+    - [Python Crash Course - Cheat Sheets](http://ehmatthes.github.io/pcc/cheatsheets/README.html)
     - [python feature](https://github.com/PythonCharmers/python-future)
 - [php-cheat-sheet](https://www.addedbytes.com/cheat-sheets/php-cheat-sheet/)
     - [PHP7-Reference](https://github.com/tpunt/PHP7-Reference)
