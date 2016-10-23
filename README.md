@@ -111,6 +111,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
     - [sass/SCSS functions cheatsheet](https://gist.github.com/AllThingsSmitty/3bcc79da563df756be46)
 - [ember-js](http://www.cheatography.com/mwore/cheat-sheets/ember-js/)
 - [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
+- [font-awesome](http://fontawesome.io/cheatsheet/)
 - [jquery](http://oscarotero.com/jquery/)
     - [jquery-cheatsheet](http://lab.abhinayrathore.com/jquery-cheatsheet/)
 - [react-cheatsheet](http://reactcheatsheet.com/)
