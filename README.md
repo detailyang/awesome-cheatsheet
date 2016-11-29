@@ -206,7 +206,8 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 ##Security
 
 - [HTML5 Security Cheatsheet](https://github.com/cure53/H5SC)
-- [Penetration Testing/Security Cheatsheets](https://github.com/jshaw87/Cheatsheets)
+- [Penetration Testing Cheatsheets](https://github.com/jshaw87/Cheatsheets)
+- [Security Tools Cheatsheets](https://github.com/andrewjkerr/security-cheatsheets)
 - [oauthsecurity](https://github.com/homakov/oauthsecurity)
 - [OWASP Cheat Sheets](https://www.owasp.org/images/9/9a/OWASP_Cheatsheets_Book.pdf)
 
