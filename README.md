@@ -122,7 +122,6 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [\<head> Cheat Sheet](http://gethead.info/)
 - [page-load Cheat Sheet](https://developers.google.com/speed/docs/insights/about)
 - [Bootstrap 4](https://hackerthemes.com/bootstrap-cheatsheet/)
-- [HTML5](https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/html5-cheat-sheet/html5-cheat-sheet.pdf)
 
 ## Back-End Development
 
