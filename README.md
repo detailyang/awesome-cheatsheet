@@ -39,6 +39,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
     - [iOS-App-Performance-Cheatsheet](https://github.com/danielamitay/iOS-App-Performance-Cheatsheet)
     - [UI-Testing-Cheat-Sheet](https://github.com/joemasilotti/UI-Testing-Cheat-Sheet)
 - [saltstack](https://github.com/saltstack/salt/wiki/Cheat-Sheet)
+- [nginx-cheatsheet](https://github.com/SimulatedGREG/nginx-cheatsheet)
 
 
 ## Programming Languages
