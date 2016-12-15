@@ -69,6 +69,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
     - [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
     - [javascript-design-pattern](https://github.com/nnupoor/js_designpatterns)
     - [npm-vs-yarn-cheat-sheet](https://shift.infinite.red/npm-vs-yarn-cheat-sheet-8755b092e5cc#.91l58dovs)
+    - [npm-vs-yarn-cheat-sheet](https://github.com/areai51/yarn-cheatsheet)
 - [lisp-cheat-sheet](http://faculty.smcm.edu/acjamieson/s13/LispCheatSheet.pdf)
 - [lua-cheat-sheet](http://lua-users.org/files/wiki_insecure/users/thomasl/luarefv51single.pdf)
 - [objective-c-cheat-sheet](https://github.com/iwasrobbed/Objective-C-CheatSheet)
@@ -170,7 +171,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [Atom](https://github.com/nwinkler/atom-keyboard-shortcuts)
 - [NetBeans](https://netbeans.org/project_downloads/usersguide/shortcuts-80.pdf)
 - [Sublime Text 3](https://www.shortcutfoo.com/app/dojos/sublime-text-3-win/cheatsheet)
-- [PHPStorm - Mac/Win] (https://resources.jetbrains.com/storage/products/phpstorm/docs/PhpStorm_ReferenceCard.pdf) 
+- [PHPStorm - Mac/Win] (https://resources.jetbrains.com/storage/products/phpstorm/docs/PhpStorm_ReferenceCard.pdf)
 
 ## Tools
 
@@ -195,7 +196,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [terminal-mac-cheatsheet](https://github.com/0nn0/terminal-mac-cheatsheet)
 - [tmux](https://gist.github.com/andreyvit/2921703)
 - [Unix Toolbox](http://cb.vu/unixtoolbox.xhtml)
-- [sysadmin](https://github.com/kahun/awesome-sysadmin) 
+- [sysadmin](https://github.com/kahun/awesome-sysadmin)
 - [systemtap-cheat-sheet](https://github.com/calio/systemtap-cheat-sheet)
 
 ##Media
