@@ -81,6 +81,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
     - [python feature](https://github.com/PythonCharmers/python-future)
 - [php-cheat-sheet](https://www.addedbytes.com/cheat-sheets/php-cheat-sheet/)
     - [PHP7-Reference](https://github.com/tpunt/PHP7-Reference)
+- [perlcheat](http://perldoc.perl.org/perlcheat.html)
 - [r-cheat-sheet](http://cran.r-project.org/doc/contrib/Baggott-refcard-v2.pdf)
 - [racket-cheat-sheet](http://docs.racket-lang.org/guide/)
 - [ragel-cheat-sheet](https://github.com/calio/ragel-cheat-sheet)
