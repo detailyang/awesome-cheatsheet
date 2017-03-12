@@ -168,8 +168,8 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [GNU Emacs](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf)
     - [Paredit Cheatsheet](https://www.emacswiki.org/emacs/PareditCheatsheet)
 - IntellJ IDEA
-    - [Windows/Linux](https://resources.jetbrains.com/assets/products/intellij-idea/IntelliJIDEA_ReferenceCard.pdf)
-    - [Mac OS X](https://resources.jetbrains.com/assets/products/intellij-idea/IntelliJIDEA_ReferenceCard_mac.pdf)
+    - [Windows/Linux](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)
+    - [Mac OS X](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)
 - [MarkDown Cheat Sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 - [Eclipse](https://github.com/pellaton/eclipse-cheatsheet)
 - [Atom](https://github.com/nwinkler/atom-keyboard-shortcuts)
