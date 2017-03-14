@@ -120,6 +120,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
     - [jquery-cheatsheet](http://lab.abhinayrathore.com/jquery-cheatsheet/)
 - [react-cheatsheet](http://reactcheatsheet.com/)
 - [react-native-cheat-sheet](https://github.com/refinery29/react-native-cheat-sheet)
+- [react-native-styling-cheat-sheet](https://github.com/vhpoet/react-native-styling-cheat-sheet)
 - [redux](http://ricostacruz.com/cheatsheets/redux.html)
 - [underscore-cheat-sheet](http://f.cl.ly/items/093o0l2Y3u130y0W0c0x/underscore-cheat-sheet.pdf)
 - [webpack](https://github.com/petehunt/webpack-howto)
