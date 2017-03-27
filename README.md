@@ -1,6 +1,7 @@
 <img src="https://cdn.rawgit.com/detailyang/awesome-cheatsheet/master/awesome.svg" alt="awesome" width="120" align="right" >
-# Awesome Cheatsheet [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-![Branch master](https://img.shields.io/badge/branch-master-brightgreen.svg?style=flat-square)    [![Build Status](https://api.travis-ci.org/detailyang/awesome-cheatsheet.svg)](https://travis-ci.org/detailyang/awesome-cheatsheet)    [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/detailyang/awesome-cheatsheet/master/LICENSE)
+# Awesome Cheatsheet 
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![Branch master](https://img.shields.io/badge/branch-master-brightgreen.svg?style=flat-square) [![Build Status](https://api.travis-ci.org/detailyang/awesome-cheatsheet.svg)](https://travis-ci.org/detailyang/awesome-cheatsheet)    [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/detailyang/awesome-cheatsheet/master/LICENSE)
 > List of useful cheatsheets
 
 Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://github.com/sindresorhus/awesome) and improved by these **[amazing contributors](https://github.com/detailyang/awesome-cheatsheet/graphs/contributors)**.
@@ -204,11 +205,11 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [sysadmin](https://github.com/kahun/awesome-sysadmin)
 - [systemtap-cheat-sheet](https://github.com/calio/systemtap-cheat-sheet)
 
-##Media
+## Media
 
 - [favicon-cheat-sheet](https://github.com/audreyr/favicon-cheat-sheet)
 
-##Security
+## Security
 
 - [HTML5 Security Cheatsheet](https://github.com/cure53/H5SC)
 - [Penetration Testing Cheatsheets](https://github.com/jshaw87/Cheatsheets)
@@ -216,7 +217,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [oauthsecurity](https://sakurity.com/oauth)
 - [OWASP Cheat Sheets](https://www.owasp.org/images/9/9a/OWASP_Cheatsheets_Book.pdf)
 
-##Miscellaneous
+## Miscellaneous
 
 - [easings.net](https://github.com/ai/easings.net)
 - [math-as-code](https://github.com/Jam3/math-as-code)
