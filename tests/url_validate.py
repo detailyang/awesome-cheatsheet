@@ -14,6 +14,7 @@ from requests.exceptions import ConnectionError, MissingSchema
 
 url_re = re.compile('.*\[.*\]\((.*)\)')
 current_dir = os.path.dirname(os.path.realpath(__file__))
+headers = {'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36'}
 
 file = '{current_dir}/../README.md'.format(current_dir=current_dir)
 with open(file) as f:
@@ -22,7 +23,7 @@ with open(file) as f:
         if m is None:
             continue
         try:
-            result = get(m.group(1))
+            result = get(m.group(1), headers=headers)
             if result.status_code >= 400:
                 print('{file} line #{line} {url} return {code}'.format(file=file, line=line,
                     url=m.group(1), code=result.status_code))
