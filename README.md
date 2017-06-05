@@ -132,6 +132,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [page-load Cheat Sheet](https://developers.google.com/speed/docs/insights/about)
 - [Bootstrap 4](https://hackerthemes.com/bootstrap-cheatsheet/)
 - [jest-cheat-sheet](https://github.com/sapegin/jest-cheat-sheet)
+- [flexbox-cheatsheet](http://vudav.github.io/flexbox-cheatsheet/)
 
 ## Back-End Development
 
