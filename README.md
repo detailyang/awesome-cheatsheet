@@ -34,7 +34,6 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 
 - [Android-Cheatsheet-For-Graphic-Designers](http://petrnohejl.github.io/Android-Cheatsheet-For-Graphic-Designers/)
 - [Arduino_Cheat_Sheet.pdf](http://dlnmh9ip6v2uc.cloudfront.net/learn/materials/8/Arduino_Cheat_Sheet.pdf)
-- [dtrace_cheatsheet](https://blogs.oracle.com/brendan/entry/dtrace_cheatsheet)
 - [docker](https://github.com/wsargent/docker-cheat-sheet)
     - [dockerfiles](https://github.com/jessfraz/dockerfiles)
 - [ios-cheat-sheet](https://github.com/Avocarrot/ios-cheatsheet)
