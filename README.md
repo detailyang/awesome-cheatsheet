@@ -63,7 +63,6 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [f#-cheat-sheet](http://dungpa.github.io/fsharp-cheatsheet)
 - [golang-cheat-sheet](https://github.com/a8m/go-lang-cheat-sheet)
     - [Cheat sheet for some of the common concurrent flows in Go](https://github.com/rakyll/coop)
-- [haskell-cheat-sheet](http://blog.codeslower.com/static/CheatSheet.pdf)
 - [java-cheat-sheet](http://introcs.cs.princeton.edu/java/11cheatsheet/)
     - [java8-cheat-sheet](https://github.com/BafS/Java8-CheatSheet)
 - [javascript-cheat-sheet](http://www.addedbytes.com/cheat-sheets/javascript-cheat-sheet/)
