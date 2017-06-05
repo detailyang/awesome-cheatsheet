@@ -227,3 +227,4 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
 - [Network-related cheatsheets](http://packetlife.net/library/cheat-sheets/)
 - [api-cheat-sheet](https://github.com/RestCheatSheet/api-cheat-sheet)
+- [cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai)
