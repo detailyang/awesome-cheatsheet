@@ -111,7 +111,6 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 
 - [angular2](https://angular.io/cheatsheet)
 - [angularjs](http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
-- [backbone-cheatsheet](http://www.igloolab.com/downloads/backbone-cheatsheet.pdf)
 - [SCSS cheatsheet](https://sass-cheatsheet.brunoscopelliti.com)
 - [CSS Flex Box](https://d13yacurqjgara.cloudfront.net/users/248947/screenshots/1742074/attachments/282954/flexboxsheet.pdf)
 - [sass/SCSS functions cheatsheet](https://gist.github.com/AllThingsSmitty/3bcc79da563df756be46)
