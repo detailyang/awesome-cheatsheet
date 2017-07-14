@@ -28,6 +28,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [Media](#media)
 - [Security](#security)
 - [Content Management System](#content-management-system)
+- [Project Management](#project-management)
 - [Miscellaneous](#miscellaneous)
 
 ## Platforms
@@ -217,6 +218,13 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [Security Tools Cheatsheets](https://github.com/andrewjkerr/security-cheatsheets)
 - [oauthsecurity](https://sakurity.com/oauth)
 - [OWASP Cheat Sheets](https://www.owasp.org/images/9/9a/OWASP_Cheatsheets_Book.pdf)
+
+## Project Management
+
+- [Agile Cheatsheet](http://cheatsheetworld.com/programming/agile-development-cheat-sheet/)
+- [Scrum Cheatsheet](https://www.axosoft.com/Downloads/Scrum_Diagram.pdf)
+- [Lean Cheatsheet](https://www.cheatography.com/davidpol/cheat-sheets/lean-methodology/pdf_bw/)
+- [A set of metodologies in one Cheatsheet (waterfall, agile, lean, xp, etc)](https://www.cheatography.com/nataliemoore/cheat-sheets/system-development-methodologies/pdf_bw/)
 
 ## Miscellaneous
 
