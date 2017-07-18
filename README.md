@@ -111,11 +111,11 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 ## Front-End Development
 
 - [angular2](https://angular.io/cheatsheet)
-- [angularjs](http://lightspeed1.nsnet.net/access/web?id=83ceaef4-6bd7-11e7-8b13-00e0ed148814)
+- [angularjs](http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
 - [SCSS cheatsheet](https://sass-cheatsheet.brunoscopelliti.com)
 - [CSS Flex Box](https://d13yacurqjgara.cloudfront.net/users/248947/screenshots/1742074/attachments/282954/flexboxsheet.pdf)
 - [sass/SCSS functions cheatsheet](https://gist.github.com/AllThingsSmitty/3bcc79da563df756be46)
-- [ember-js](http://lightspeed1.nsnet.net/access/web?id=83ef8564-6bd7-11e7-8b13-00e0ed148814)
+- [ember-js](http://www.cheatography.com/mwore/cheat-sheets/ember-js/)
 - [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
 - [font-awesome](http://fontawesome.io/cheatsheet/)
 - [jquery](https://oscarotero.com/jquery/)
@@ -124,7 +124,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [react-native-cheat-sheet](https://github.com/refinery29/react-native-cheat-sheet)
 - [react-native-styling-cheat-sheet](https://github.com/vhpoet/react-native-styling-cheat-sheet)
 - [redux](http://ricostacruz.com/cheatsheets/redux.html)
-- [underscore-cheat-sheet](http://lightspeed1.nsnet.net/access/web?id=842b9910-6bd7-11e7-8b13-00e0ed148814)
+- [underscore-cheat-sheet](http://f.cl.ly/items/093o0l2Y3u130y0W0c0x/underscore-cheat-sheet.pdf)
 - [webpack](https://github.com/petehunt/webpack-howto)
 - [\<head> Cheat Sheet](http://gethead.info/)
 - [page-load Cheat Sheet](https://developers.google.com/speed/docs/insights/about)
