@@ -137,7 +137,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [flask](https://docs.google.com/file/d/1pnwfq8v5Ph4Xn8ttv9P_TLnrRbT9-S_v-KdZiEcx64vlGYkC0SoMfZOs0NYN/edit?usp=drive_web)
 - [laravel-cheatsheet](https://github.com/jesseobrien/laravel-cheatsheet)
 - [ror](http://www.cheatography.com/davechild/cheat-sheets/ruby-on-rails/)
-- [web2py](https://dl.dropboxusercontent.com/u/18065445/web2py/web2py_cheatsheet.pdf)
+- [web2py](http://web2py.com/examples/static/web2py_cheatsheet.pdf)
 - [nodejs](https://gist.github.com/LeCoupa/985b82968d8285987dc3)
 - [django](http://awesome-django.com)
 - [django-cheatsheet](https://www.mercurytide.co.uk/media/resources/django-cheat-sheet.pdf)
