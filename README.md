@@ -46,7 +46,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 
 ## Programming Languages
 
-- [Ada-cheat-sheet](http://www.digilife.be/quickreferences/QRC/Ada%20Reference%20Card.pdf)
+- [Ada-cheat-sheet](https://web.archive.org/web/20110706133825/http://www.digilife.be/quickreferences/QRC/Ada%20Syntax%20Card.pdf)
 - [assembly-cheat-sheet](http://www.jegerlehner.ch/intel/)
 - [coffeescript_cheatsheet](https://github.com/icebob/coffeescript_cheatsheet/)
 - [c-ansi-cheat-sheet](http://www.digilife.be/quickreferences/qrc/c%20reference%20card%20(ansi)%202.2.pdf)
