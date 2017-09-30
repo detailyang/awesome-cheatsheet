@@ -49,7 +49,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [Ada-cheat-sheet](https://web.archive.org/web/20110706133825/http://www.digilife.be/quickreferences/QRC/Ada%20Syntax%20Card.pdf)
 - [assembly-cheat-sheet](http://www.jegerlehner.ch/intel/)
 - [coffeescript_cheatsheet](https://github.com/icebob/coffeescript_cheatsheet/)
-- [c-ansi-cheat-sheet](http://www.digilife.be/quickreferences/qrc/c%20reference%20card%20(ansi)%202.2.pdf)
+- [c-ansi-cheat-sheet](https://web.archive.org/web/20110706133825/http://www.digilife.be/quickreferences/qrc/c%20reference%20card%20(ansi)%202.2.pdf)
 - [c#-cheat-sheet ](https://www.slideshare.net/ileshR/core-c-sharpandnetquickreference)
 - [cpp-cheat-sheet](https://isocpp.org/blog/2012/12/c11-a-cheat-sheet-alex-sinyakov)
 - [clojure-cheat-sheet](https://clojure.org/cheatsheet)
