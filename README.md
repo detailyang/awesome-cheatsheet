@@ -197,6 +197,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
     - [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)
     - [git-style-guide](https://github.com/agis/git-style-guide)
     - [git-flow-cheatsheet](https://github.com/danielkummer/git-flow-cheatsheet)
+- [Kafka](https://github.com/Landoop/kafka-cheat-sheet)
 - [latexsheet](http://wch.github.io/latexsheet/)
 - [mac-command-line-cheatsheet](https://github.com/herrbischoff/awesome-osx-command-line)
 - [matlab-cheatsheet](http://web.mit.edu/18.06/www/Spring09/matlab-cheatsheet.pdf)
