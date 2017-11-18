@@ -112,6 +112,10 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [tcl-cheat-sheet](http://wiki.tcl.tk/10710)
 - [typescript-cheat-sheet](http://www.typescriptlang.org/Handbook/)
 
+## Software Testing
+
+- [software testing and verification](https://github.com/ligurio/free-software-testing-books/blob/master/cheatsheets.md)
+
 ## Front-End Development
 
 - [angular2](https://angular.io/guide/cheatsheet)
