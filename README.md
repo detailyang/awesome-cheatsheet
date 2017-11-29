@@ -104,7 +104,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
     - [awesome-shell](https://github.com/alebcay/awesome-shell)
     - [oh-my-zsh cheatsheet](https://github.com/robbyrussell/oh-my-zsh/wiki/Cheatsheet)
     - [Shell scripting cheatsheet - Devhints](https://devhints.io/bash)
-- [solidity](https://s3-eu-west-1.amazonaws.com/b9-academy-assets/public/solidity-cheatsheet.pdf)
+- [solidity](https://github.com/manojpramesh/solidity-cheatsheet/)
 - [smalltalk-cheat-sheet](http://stephane.ducasse.free.fr/Teaching/0809Turino/st-cheatsheet.pdf)
 - [swift cheatsheet](https://github.com/iwasrobbed/Swift-CheatSheet)
     - [Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds)
