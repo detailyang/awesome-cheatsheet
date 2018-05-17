@@ -157,6 +157,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 ## Databases
 
 - [CouchDB Cheatsheet](https://wiki.apache.org/couchdb/API_Cheatsheet)
+- [Elasticsearch](http://elasticsearch-cheatsheet.jolicode.com)
 - [MongoDb-cheat-sheet](https://github.com/leojavier/MongoDb-cheat-sheet)
 - [mysql-cheat-sheet](http://www.cheatography.com/davechild/cheat-sheets/mysql/)
 - [Oracle_Programming](https://en.wikibooks.org/wiki/Oracle_Programming/SQL_Cheatsheet)
