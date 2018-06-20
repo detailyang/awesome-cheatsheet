@@ -157,6 +157,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 ## Databases
 
 - [CouchDB Cheatsheet](https://wiki.apache.org/couchdb/API_Cheatsheet)
+- [Elasticsearch](http://elasticsearch-cheatsheet.jolicode.com)
 - [MongoDb-cheat-sheet](https://github.com/leojavier/MongoDb-cheat-sheet)
 - [mysql-cheat-sheet](http://www.cheatography.com/davechild/cheat-sheets/mysql/)
 - [Oracle_Programming](https://en.wikibooks.org/wiki/Oracle_Programming/SQL_Cheatsheet)
@@ -223,7 +224,6 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 ## Security
 
 - [HTML5 Security Cheatsheet](https://github.com/cure53/H5SC)
-- [Penetration Testing Cheatsheets](https://github.com/jshaw87/Cheatsheets)
 - [Security Tools Cheatsheets](https://github.com/andrewjkerr/security-cheatsheets)
 - [oauthsecurity](https://sakurity.com/oauth)
 - [OWASP Cheat Sheets](https://www.owasp.org/images/9/9a/OWASP_Cheatsheets_Book.pdf)
