@@ -224,7 +224,6 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 ## Security
 
 - [HTML5 Security Cheatsheet](https://github.com/cure53/H5SC)
-- [Penetration Testing Cheatsheets](https://github.com/jshaw87/Cheatsheets)
 - [Security Tools Cheatsheets](https://github.com/andrewjkerr/security-cheatsheets)
 - [oauthsecurity](https://sakurity.com/oauth)
 - [OWASP Cheat Sheets](https://www.owasp.org/images/9/9a/OWASP_Cheatsheets_Book.pdf)
