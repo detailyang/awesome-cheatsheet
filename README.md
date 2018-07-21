@@ -54,7 +54,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [cpp-cheat-sheet](https://isocpp.org/blog/2012/12/c11-a-cheat-sheet-alex-sinyakov)
 - [clojure-cheat-sheet](https://clojure.org/cheatsheet)
 - [clojurescript-cheat-sheet](http://cljs.info/cheatsheet/)
-- [dart-cheat-sheet](http://dartlangfr.net/dart-cheat-sheet/)
+- [dart-cheat-sheet](http://dartlang.fr/dart-cheat-sheet/)
 - [delphi-cheat-sheet](http://www.cheat-sheets.org/saved-copy/dquick.pdf)
 - [dotnet-cheat-sheet](https://dzone.com/refcardz/coredotnet)
 - [elixir-cheat-sheet](https://media.pragprog.com/titles/elixir/ElixirCheat.pdf)
