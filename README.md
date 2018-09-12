@@ -202,6 +202,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
     - [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)
     - [git-style-guide](https://github.com/agis/git-style-guide)
     - [git-flow-cheatsheet](https://github.com/danielkummer/git-flow-cheatsheet)
+    - [interactive git cheat sheet](https://the-awesome-git-cheat-sheet.com/)
 - [Kafka](https://github.com/Landoop/kafka-cheat-sheet)
 - [latexsheet](http://wch.github.io/latexsheet/)
 - [mac-command-line-cheatsheet](https://github.com/herrbischoff/awesome-osx-command-line)
