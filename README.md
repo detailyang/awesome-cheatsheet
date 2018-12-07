@@ -234,7 +234,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 
 - [Agile Cheatsheet](http://cheatsheetworld.com/programming/agile-development-cheat-sheet/)
 - [Scrum Cheatsheet](https://www.axosoft.com/Downloads/Scrum_Diagram.pdf)
-- [Kanban Cheatsheet] (http://www.eylean.com/blog/wp-content/uploads/2017/05/Kanban-Cheat-Sheet.png)
+- [Kanban Cheatsheet](http://www.eylean.com/blog/wp-content/uploads/2017/05/Kanban-Cheat-Sheet.png)
 - [Lean Cheatsheet](https://www.cheatography.com/davidpol/cheat-sheets/lean-methodology/pdf_bw/)
 - [A set of metodologies in one Cheatsheet (waterfall, agile, lean, xp, etc)](https://www.cheatography.com/nataliemoore/cheat-sheets/system-development-methodologies/pdf_bw/)
 
