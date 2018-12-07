@@ -94,6 +94,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [ruby-cheat-sheet](https://github.com/brennovich/cheat-ruby-sheets)
     - [A collection of Ruby Net::HTTP examples](https://github.com/augustl/net-http-cheat-sheet)
 - [rust-cheat-sheet](https://static.rust-lang.org/doc/0.9/complement-cheatsheet.html)
+    - [Rust Language Cheat Sheet](https://cheats.rs/)
 - [scala-cheat-sheet](http://docs.scala-lang.org/cheatsheets/)
 - [scheme-cheat-sheet](http://courses.cs.washington.edu/courses/cse341/02wi/scheme/cheat-sheet.html)
 - [shell-cheat-sheet](https://github.com/NisreenFarhoud/Bash-Cheatsheet)
