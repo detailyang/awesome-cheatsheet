@@ -149,7 +149,6 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [ror](http://www.cheatography.com/davechild/cheat-sheets/ruby-on-rails/)
 - [web2py](http://web2py.com/examples/static/web2py_cheatsheet.pdf)
 - [nodejs](https://gist.github.com/LeCoupa/985b82968d8285987dc3)
-- [django](http://awesome-django.com)
 - [django-cheatsheet](https://www.mercurytide.co.uk/media/resources/django-cheat-sheet.pdf)
 - [syscall-cheatsheet](http://syscalls.kernelgrok.com/)
 
