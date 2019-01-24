@@ -63,6 +63,9 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [emoji-cheat-sheet](https://github.com/WebpageFX/emoji-cheat-sheet.com)
 - [f#-cheat-sheet](http://dungpa.github.io/fsharp-cheatsheet)
 - [flow-cheat-sheet](https://devhints.io/flow)
+- [fortran_quick_reference](http://www.mie.uth.gr/ekp_yliko/fortran_quick_reference_cheat_crib_sheet.pdf)
+- [modern fortran reference card](https://michaelgoerz.net/refcards/fortran_refcard_a4.pdf)
+- [fortran 90 reference card](https://web.pa.msu.edu/people/duxbury/courses/phy480/fortran90_refcard.pdf)
 - [golang-cheat-sheet](https://github.com/a8m/go-lang-cheat-sheet)
     - [Cheat sheet for some of the common concurrent flows in Go](https://github.com/rakyll/coop)
     - [Go crash course cheatsheet - Devhints](https://devhints.io/go)
@@ -73,6 +76,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
     - [javascript-design-pattern](https://github.com/nnupoor/js_designpatterns)
     - [npm-vs-yarn-cheat-sheet](https://shift.infinite.red/npm-vs-yarn-cheat-sheet-8755b092e5cc#.91l58dovs)
     - [npm-vs-yarn-cheat-sheet](https://github.com/areai51/yarn-cheatsheet)
+- [json](https://www.cheatography.com/mackan90096/cheat-sheets/json/pdf_bw/)
 - [lisp-cheat-sheet](http://faculty.smcm.edu/acjamieson/s13/LispCheatSheet.pdf)
 - [lua-cheat-sheet](http://lua-users.org/files/wiki_insecure/users/thomasl/luarefv51single.pdf)
 - [objective-c-cheat-sheet](https://github.com/iwasrobbed/Objective-C-CheatSheet)
@@ -112,6 +116,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
     - [swift design patterns](https://github.com/ochococo/Design-Patterns-In-Swift)
 - [tcl-cheat-sheet](http://wiki.tcl.tk/10710)
 - [typescript-cheat-sheet](http://www.typescriptlang.org/Handbook/)
+- [xml](https://www.mulberrytech.com/quickref/XMLquickref.pdf)
 
 ## Software Testing
 
@@ -121,7 +126,9 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 
 - [angular2](https://angular.io/guide/cheatsheet)
 - [angularjs](http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
+- [ASP.NET MVC](https://techbrij.com/notes/aspnet-mvc-4.php)
 - [SCSS cheatsheet](https://sass-cheatsheet.brunoscopelliti.com)
+- [CSS3 cheatsheet](https://websitesetup.org/wp-content/uploads/2016/10/wsu-css-cheat-sheet.pdf)
 - [CSS Flex Box](https://d13yacurqjgara.cloudfront.net/users/248947/screenshots/1742074/attachments/282954/flexboxsheet.pdf)
 - [sass/SCSS functions cheatsheet](https://gist.github.com/AllThingsSmitty/3bcc79da563df756be46)
 - [ember-js](http://www.cheatography.com/mwore/cheat-sheets/ember-js/)
@@ -137,6 +144,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [webpack](https://github.com/petehunt/webpack-howto)
 - [\<head> Cheat Sheet](http://gethead.info/)
 - [page-load Cheat Sheet](https://developers.google.com/speed/docs/insights/about)
+- [Bootstrsp 3](http://creativealive.com/wp-content/uploads/2014/01/bootstrap3-cheatsheet.pdf)
 - [Bootstrap 4](https://hackerthemes.com/bootstrap-cheatsheet/)
 - [jest-cheat-sheet](https://github.com/sapegin/jest-cheat-sheet)
 - [flexbox-cheatsheet](http://vudav.github.io/flexbox-cheatsheet/)
@@ -154,6 +162,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 
 ## Big Data
 - [machine-learning-cheat-sheet](https://github.com/soulmachine/machine-learning-cheat-sheet)
+- [Hadoop](http://images.linoxide.com/hadoop-hdfs-commands-cheatsheet.pdf)
 
 ## Databases
 
@@ -176,10 +185,13 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [rest-foundations-restful](https://dzone.com/refcardz/rest-foundations-restful)
 
 ## Editors
-
+- [Andriod Studio keyboard shortcut](https://developer.android.com/studio/intro/keyboard-shortcuts)
 - [a_vi_vim_graphical_cheat_sheet_tutorial](http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html)
     - [Vim Quick Reference Card](https://michaelgoerz.net/refcards/vimqrc.pdf)
     - [A really easy to read and comprehensive guide on vim.](https://vim.rtorr.com/)
+- [Brackets - PC](http://lisacatalano.github.io/brackets_course/pc.html)
+- [Brackets - mac](http://lisacatalano.github.io/brackets_course/mac.html)
+- [code blocks](http://wiki.codeblocks.org/index.php/Keyboard_Shortcuts)
 - [GNU Emacs](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf)
     - [Paredit Cheatsheet](https://www.emacswiki.org/emacs/PareditCheatsheet)
 - IntellJ IDEA
@@ -191,6 +203,10 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [NetBeans](https://netbeans.org/project_downloads/usersguide/shortcuts-80.pdf)
 - [Sublime Text 3](https://www.shortcutfoo.com/app/dojos/sublime-text-3-win/cheatsheet)
 - [PHPStorm - Mac/Win](https://resources.jetbrains.com/storage/products/phpstorm/docs/PhpStorm_ReferenceCard.pdf)
+- Visual Studio Code
+   - [For windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+   - [for macOS](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
+   - [for linux](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)
 
 ## Tools
 
