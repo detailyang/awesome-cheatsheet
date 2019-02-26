@@ -169,6 +169,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [CouchDB Cheatsheet](https://wiki.apache.org/couchdb/API_Cheatsheet)
 - [Db2 CheatSheet for development](https://github.com/angoca/db2-cheat-sheet/blob/master/Db2CheatSheetForDev.pdf)
 - [Elasticsearch](http://elasticsearch-cheatsheet.jolicode.com)
+- [MongoDb Shell Quick Reference](https://docs.mongodb.com/manual/reference/mongo-shell/)
 - [MongoDb-cheat-sheet](https://github.com/leojavier/MongoDb-cheat-sheet)
 - [mysql-cheat-sheet](http://www.cheatography.com/davechild/cheat-sheets/mysql/)
 - [Oracle_Programming](https://en.wikibooks.org/wiki/Oracle_Programming/SQL_Cheatsheet)
