@@ -14,9 +14,9 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 
 - [Platforms](#platforms)
 - [Programming Languages](#programming-languages)
+- [Software Testing](#Software-Testing)
 - [Front-End Development](#front-end-development)
 - [Back-End Development](#back-end-development)
-- [Computer Science](#computer-science)
 - [Big Data](#big-data)
 - [Theory](#theory)
 - [Books](#books)
