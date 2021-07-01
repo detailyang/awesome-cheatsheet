@@ -14,9 +14,9 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 
 - [Platforms](#platforms)
 - [Programming Languages](#programming-languages)
+- [Software Testing](#Software-Testing)
 - [Front-End Development](#front-end-development)
 - [Back-End Development](#back-end-development)
-- [Computer Science](#computer-science)
 - [Big Data](#big-data)
 - [Theory](#theory)
 - [Books](#books)
@@ -122,7 +122,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [angular2](https://angular.io/guide/cheatsheet)
 - [angularjs](http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
 - [SCSS cheatsheet](https://sass-cheatsheet.brunoscopelliti.com)
-- [CSS Flex Box](https://d13yacurqjgara.cloudfront.net/users/248947/screenshots/1742074/attachments/282954/flexboxsheet.pdf)
+- [CSS Flex Box](https://jonitrythall.com/images/flexboxsheet.pdf)
 - [sass/SCSS functions cheatsheet](https://gist.github.com/AllThingsSmitty/3bcc79da563df756be46)
 - [ember-js](http://www.cheatography.com/mwore/cheat-sheets/ember-js/)
 - [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
@@ -144,7 +144,6 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 
 ## Back-End Development
 
-- [flask](https://docs.google.com/file/d/1pnwfq8v5Ph4Xn8ttv9P_TLnrRbT9-S_v-KdZiEcx64vlGYkC0SoMfZOs0NYN/edit?usp=drive_web)
 - [laravel-cheatsheet](https://github.com/jesseobrien/laravel-cheatsheet)
 - [ror](http://www.cheatography.com/davechild/cheat-sheets/ruby-on-rails/)
 - [web2py](http://web2py.com/examples/static/web2py_cheatsheet.pdf)
@@ -250,3 +249,4 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [Network-related cheatsheets](http://packetlife.net/library/cheat-sheets/)
 - [api-cheat-sheet](https://github.com/RestCheatSheet/api-cheat-sheet)
 - [cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai)
+- [Systems Programming Cheat Sheet](https://github.com/jstrieb/systems-programming-cheat-sheet)
