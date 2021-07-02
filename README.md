@@ -190,6 +190,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [NetBeans](https://netbeans.org/project_downloads/usersguide/shortcuts-80.pdf)
 - [Sublime Text 3](https://www.shortcutfoo.com/app/dojos/sublime-text-3-win/cheatsheet)
 - [PHPStorm - Mac/Win](https://resources.jetbrains.com/storage/products/phpstorm/docs/PhpStorm_ReferenceCard.pdf)
+- [Notepad++](https://drive.google.com/file/d/1r4rPmYQ-dMz_9UNUKKH9F6KyWDLSlwke)
 
 ## Tools
 
@@ -208,6 +209,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [latexsheet](http://wch.github.io/latexsheet/)
 - [mac-command-line-cheatsheet](https://github.com/herrbischoff/awesome-osx-command-line)
 - [matlab-cheatsheet](http://web.mit.edu/18.06/www/Spring09/matlab-cheatsheet.pdf)
+- [Mobaxterm](https://drive.google.com/file/d/0B86nuTd5nMTKRWxrdE44cEZodHc/view)
 - [Octave-cheatsheet](http://ais.informatik.uni-freiburg.de/teaching/ss14/robotics/etc/cheatsheet.pdf)
 - [rspec](https://gist.github.com/dnagir/663876)
 - [RSpec cheatsheet](https://github.com/eliotsykes/rspec-rails-examples)
