@@ -190,7 +190,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [NetBeans](https://netbeans.org/project_downloads/usersguide/shortcuts-80.pdf)
 - [Sublime Text 3](https://www.shortcutfoo.com/app/dojos/sublime-text-3-win/cheatsheet)
 - [PHPStorm - Mac/Win](https://resources.jetbrains.com/storage/products/phpstorm/docs/PhpStorm_ReferenceCard.pdf)
-- [Notepad++](https://drive.google.com/file/d/1r4rPmYQ-dMz_9UNUKKH9F6KyWDLSlwke/view?usp=sharing)
+- [Notepad++](https://drive.google.com/file/d/1r4rPmYQ-dMz_9UNUKKH9F6KyWDLSlwke)
 
 ## Tools
 
