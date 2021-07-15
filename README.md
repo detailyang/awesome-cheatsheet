@@ -173,6 +173,8 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [Theoretical Computer Science Cheat Sheet](http://www.tug.org/texshowcase/cheat.pdf)
 - [regular-expression-cheat-sheet](https://github.com/niklongstone/regular-expression-cheat-sheet)
 - [rest-foundations-restful](https://dzone.com/refcardz/rest-foundations-restful)
+- [Computer-Networks-Last-Minute-Notes](https://www.geeksforgeeks.org/last-minute-notes-computer-network/)
+- [Operating-System-Notes](https://www.geeksforgeeks.org/last-minute-notes-operating-systems/)
 
 ## Editors
 
