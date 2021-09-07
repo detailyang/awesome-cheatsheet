@@ -19,7 +19,6 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [Back-End Development](#back-end-development)
 - [Big Data](#big-data)
 - [Theory](#theory)
-- [Books](#books)
 - [Editors](#editors)
 - [Tools](#tools)
 - [Development Environment](#development-environment)
