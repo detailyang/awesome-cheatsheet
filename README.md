@@ -21,12 +21,9 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [Theory](#theory)
 - [Editors](#editors)
 - [Tools](#tools)
-- [Development Environment](#development-environment)
-- [Entertainment](#entertainment)
 - [Databases](#databases)
 - [Media](#media)
 - [Security](#security)
-- [Content Management System](#content-management-system)
 - [Project Management](#project-management)
 - [Miscellaneous](#miscellaneous)
 
