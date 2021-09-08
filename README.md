@@ -134,6 +134,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [\<head> Cheat Sheet](http://gethead.info/)
 - [page-load Cheat Sheet](https://developers.google.com/speed/docs/insights/about)
 - [Bootstrap 4](https://hackerthemes.com/bootstrap-cheatsheet/)
+- [Bootstrap 5 Cheatsheet](https://bootstrap-cheatsheet.themeselection.com/)
 - [jest-cheat-sheet](https://github.com/sapegin/jest-cheat-sheet)
 - [flexbox-cheatsheet](http://vudav.github.io/flexbox-cheatsheet/)
 - [vue-cheatsheet](https://vuejs-tips.github.io/cheatsheet/)
