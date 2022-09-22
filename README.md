@@ -150,6 +150,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 
 ## Big Data
 - [machine-learning-cheat-sheet](https://github.com/soulmachine/machine-learning-cheat-sheet)
+- [data-structure](https://www.scaler.com/topics/data-structures/what-is-data-structure/)
 
 ## Databases
 
