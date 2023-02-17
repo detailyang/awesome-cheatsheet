@@ -173,6 +173,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [rest-foundations-restful](https://dzone.com/refcardz/rest-foundations-restful)
 - [Computer-Networks-Last-Minute-Notes](https://www.geeksforgeeks.org/last-minute-notes-computer-network/)
 - [Operating-System-Notes](https://www.geeksforgeeks.org/last-minute-notes-operating-systems/)
+- [Complexity & Computational models Cheat sheet](https://saarbk.github.io/Complexity-and-Computational-models-Cheat-Sheet/)
 
 ## Editors
 
