@@ -225,6 +225,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [sysadmin](https://github.com/kahun/awesome-sysadmin)
 - [systemtap-cheat-sheet](https://github.com/calio/systemtap-cheat-sheet)
 - [Zypper Command Line Tool Cheatsheat](https://en.opensuse.org/images/1/17/Zypper-cheat-sheet-1.pdf)
+- [FFmpeg cheatsheet](https://github.com/rendi-api/ffmpeg-cheatsheet)
 
 ## Media
 
