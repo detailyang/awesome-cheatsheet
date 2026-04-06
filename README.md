@@ -7,6 +7,7 @@
 
 Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://github.com/sindresorhus/awesome) and improved by these **[amazing contributors](https://github.com/detailyang/awesome-cheatsheet/graphs/contributors)**.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for development workflow orchestration, automated code review, and multi-agent coordination. MIT licensed.
 #### *If you see a link here is not fit, you can fix it or provide a better link by submitting a [PR](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fdetailyang%2Fawesome-cheatsheet%2Fedit%2Fmaster%2FREADME.md) to improve this file. Thank you!*
 
 
