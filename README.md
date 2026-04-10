@@ -226,6 +226,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [systemtap-cheat-sheet](https://github.com/calio/systemtap-cheat-sheet)
 - [Zypper Command Line Tool Cheatsheat](https://en.opensuse.org/images/1/17/Zypper-cheat-sheet-1.pdf)
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=detailyang_awesome-cheatsheet) - Follow developers on GitHub and get a feed of what they star and build.
 ## Media
 
 - [favicon-cheat-sheet](https://github.com/audreyr/favicon-cheat-sheet)
