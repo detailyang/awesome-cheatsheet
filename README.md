@@ -119,6 +119,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [angularjs](http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
 - [SCSS cheatsheet](https://web.archive.org/web/20130630013236/http://sass-cheatsheet.brunoscopelliti.com/)
 - [CSS Flex Box](https://jonitrythall.com/images/flexboxsheet.pdf)
+- [Tailwind CSS](https://nerdcave.com/tailwind-cheat-sheet)
 - [sass/SCSS functions cheatsheet](https://gist.github.com/AllThingsSmitty/3bcc79da563df756be46)
 - [ember-js](http://www.cheatography.com/mwore/cheat-sheets/ember-js/)
 - [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
@@ -148,6 +149,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [django-cheatsheet](https://github.com/lucrae/django-cheat-sheet)
 - [syscall-cheatsheet](https://web.archive.org/web/20200620014648/http://syscalls.kernelgrok.com/)
 - [express-cheatsheet](https://quickref.me/express.html)
+- [Python FastApi](https://devsheets.io/sheets/fastapi)
 
 ## Big Data
 - [machine-learning-cheat-sheet](https://github.com/soulmachine/machine-learning-cheat-sheet)
@@ -225,6 +227,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [sysadmin](https://github.com/kahun/awesome-sysadmin)
 - [systemtap-cheat-sheet](https://github.com/calio/systemtap-cheat-sheet)
 - [Zypper Command Line Tool Cheatsheat](https://en.opensuse.org/images/1/17/Zypper-cheat-sheet-1.pdf)
+- [Caddy] (https://hackmd.io/@privex/HJc-4bD0D)
 
 ## Media
 
