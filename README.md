@@ -81,6 +81,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
     - [python future](https://github.com/PythonCharmers/python-future)
     - [Python Basics For Data Science Cheat Sheet](https://www.datacamp.com/community/tutorials/python-data-science-cheat-sheet-basics)
     - [Python Cheat Sheet - Coddy](https://coddy.tech/cheat-sheets/python)
+    - [Python Cheat Sheet - CheatGrid](https://www.cheatgrid.com/programming-languages/0004-python-cheat-sheet)
 - [php-cheat-sheet](http://www.cheatography.com/davechild/cheat-sheets/php/)
     - [PHP7-Reference](https://github.com/tpunt/PHP7-Reference)
 - [perlcheat](http://perldoc.perl.org/perlcheat.html)
@@ -110,6 +111,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
     - [swift design patterns](https://github.com/ochococo/Design-Patterns-In-Swift)
 - [tcl-cheat-sheet](http://wiki.tcl.tk/10710)
 - [typescript-cheat-sheet](http://www.typescriptlang.org/Handbook/)
+    - [TypeScript Cheat Sheet - CheatGrid](https://www.cheatgrid.com/programming-languages/0076-typescript-cheat-sheet)
 
 ## Software Testing
 
