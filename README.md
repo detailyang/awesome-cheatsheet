@@ -115,6 +115,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 
 ## Software Testing
 
+- [agent-qa CLI reference](https://vostride.com/docs/agent-qa/cli) - Natural-language web and mobile testing with advanced memidex memory and self-improvement.
 - [software testing and verification](https://github.com/mrexodia/free-software-testing-books/blob/master/free-software-testing-books.md)
 
 ## Front-End Development
