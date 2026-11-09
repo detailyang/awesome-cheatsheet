@@ -220,6 +220,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [mac-command-line-cheatsheet](https://github.com/herrbischoff/awesome-osx-command-line)
 - [matlab-cheatsheet](http://web.mit.edu/18.06/www/Spring09/matlab-cheatsheet.pdf)
 - [Mobaxterm](https://mobaxterm.mobatek.net/documentation.html)
+- [Nmap](https://dailydebian.com/blogs/cheat-sheets/nmap-cheat-sheet)
 - [Octave-cheatsheet](http://ais.informatik.uni-freiburg.de/teaching/ss14/robotics/etc/cheatsheet.pdf)
 - [rspec](https://gist.github.com/dnagir/663876)
 - [RSpec cheatsheet](https://github.com/eliotsykes/rspec-rails-examples)
