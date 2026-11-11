@@ -215,6 +215,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
     - [git-style-guide](https://github.com/agis/git-style-guide)
     - [git-flow-cheatsheet](https://github.com/danielkummer/git-flow-cheatsheet)
     - [interactive git cheat sheet](https://web.archive.org/web/20230609010002/http://the-awesome-git-cheat-sheet.com/)
+    - [Git Worktree Cheat Sheet](https://github.com/KuzscoTech/kush-exe/blob/main/cheatsheets/git-worktree-explained.md)
 - [Kafka](https://github.com/Landoop/kafka-cheat-sheet)
 - [latexsheet](http://wch.github.io/latexsheet/)
 - [mac-command-line-cheatsheet](https://github.com/herrbischoff/awesome-osx-command-line)
