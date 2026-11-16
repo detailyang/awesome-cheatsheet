@@ -179,6 +179,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [regular-expression-cheat-sheet](https://github.com/niklongstone/regular-expression-cheat-sheet)
 - [rest-foundations-restful](https://web.archive.org/web/20240616014206/https://dzone.com/refcardz/rest-foundations-restful)
 - [Computer-Networks-Last-Minute-Notes](https://www.geeksforgeeks.org/last-minute-notes-computer-network/)
+- [developer-handbook](https://github.com/isihussain/developer-handbook)
 - [Operating-System-Notes](https://www.geeksforgeeks.org/last-minute-notes-operating-systems/)
 
 ## Editors
